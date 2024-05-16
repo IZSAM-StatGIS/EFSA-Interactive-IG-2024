@@ -1,6 +1,6 @@
 # EFSA-Interactive-IG-2024
 
-@InfoTeam: sviluppare ogni infografica interattiva nel path dedicato. Sono previste le seguenti cartelle, all'interno delle quali ci saranno la sottocartelle delle infografiche specifiche (es: what-is, what-disease, how-to-prevent)
+@developers: sviluppare ogni infografica interattiva nel path dedicato. Sono previste le seguenti cartelle:
 
   * echinococcus
   * yersinia
@@ -9,3 +9,5 @@
   * trichinella
   * tularemia
   * q-fever
+
+ all'interno di ogni cartella andranno create le sottocartelle delle infografiche specifiche (es: what-is, what-disease, how-to-prevent)
