@@ -10,4 +10,9 @@
   * tularemia
   * q-fever
 
- all'interno di ogni cartella andranno create le sottocartelle delle infografiche specifiche (es: what-is, what-disease, how-to-prevent)
+ All'interno di ogni cartella andranno create le sottocartelle delle infografiche vere e proprie: 
+  * what-is
+  * what-disease
+  * how-to-prevent
+
+Ogni infografica dovrà essere raggiungibile dall'url pages di questa repo
