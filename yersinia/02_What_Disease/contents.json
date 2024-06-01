@@ -1,0 +1,95 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "",
+      "text": "Yersiniosis caused by Y. pseudotuberculosis tends to be more severe than that caused by Y. enterocolitica. Symptoms may include",
+      "collection": [
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
+        {"name": "Right sided abdominal pain in adults", "abstract": "", "img": "images/icons/ic_weak.svg"},
+        {"name": "Diarrhoea, frequently accompanied by blood (less common for Yersinia pseudotuberculosis)", "abstract": "", "img": "images/icons/ic_headache.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Young children", "abstract": "", "img": "images/icons/ic_artificial.svg"},
+        {"name": "Elderly individuals", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
+        {"name": "Patients with underlying conditions", "abstract": "", "img": "images/icons/ic_hunter.svg"},
+        {"name": "Immunocompromised people", "abstract": "", "img": "images/icons/ic_veterinarias.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Reactive arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Erythema nodosum", "abstract": "", "img": "images/icons/ic_orchitis_and_epididymitis.svg"},
+        {"name": "Systemic forms", "abstract": "", "img": "images/icons/ic_endocarditis.svg"},
+        {"name": "Myocarditis", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Sepsis", "abstract": "(less often)", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Mesenteric lymphadenitis", "abstract": "", "img": "images/icons/ic_meningits.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "Yersinia enterocolitica signs might resemble gastroenteritis. Yersinia pseudotuberculosis is mainly asymptomatic. Stress-induced signs resemble mild gastroenteritis:",
+      "collection": [
+        {"name": "Reduced well-being", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+        {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_retained_placenta.svg"},
+        {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"},
+        {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_orchitis_and_epididymitis.svg"},
+        {"name": "Loss of appetite", "abstract": "", "img": "images/icons/ic_infertility.svg"},
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_infertility.svg"},
+        {"name": "Emaciation", "abstract": "", "img": "images/icons/ic_infertility.svg"},
+        {"name": "Incoordination", "abstract": "", "img": "images/icons/ic_infertility.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Wild boar", "abstract": "", "img": "images/icons/ic_cow.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Domestic pigs", "abstract": "", "img": "images/icons/ic_swine.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Rodents", "abstract": "", "img": "images/icons/ic_horses.svg", "customStyle":"height:100px; padding-top: 0px;"},
+        {"name": "Wild birds", "abstract": "", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"}
+         
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "Yersinia pseudotuberculosis",
+      "collection": [
+        {"name": "Septicaemia", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_mastits.svg"}
+      ]
+    }
+  }
+}

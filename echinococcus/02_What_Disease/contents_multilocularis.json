@@ -1,0 +1,111 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "",
+      "text": "",
+      "collection": [
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Hepatic failure", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
+        {"name": "General malaise", "abstract": "", "img": "images/icons/ic_weak.svg"},
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_headache.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Anyone living in rural endemic areas, in particular:",
+      "collection": [
+        {"name": "Farmers", "abstract": "", "img": "images/icons/ic_artificial.svg"},
+        {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
+        {"name": "Dog owners", "abstract": "", "img": "images/icons/ic_hunter.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Liver failure", "abstract": "", "img": "images/icons/ic_arthritis.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": {
+        "definitive": "In definitive host species clinical signs are rare, but when present, they may include:  ",
+        "intermediate": ""
+      },
+      "collection": {
+        "definitive": [
+          {"name": "Enteritis", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+          {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_a_abortion.svg"}
+        ],
+        "intermediate": [
+          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+          {"name": "Hepatomegaly and abdominal pain", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+          {"name": "Dyspnoea", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+          {"name": "Intermittent diarrhoea", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+          {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_a_abortion.svg"}
+        ]
+      }
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": {
+        "definitive": "",
+        "intermediate": "Rodents, such as:"
+      },
+      "collection": {
+        "definitive": [
+          {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Artic Fox", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Wolf", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"}
+        ],
+        "intermediate": [
+          {"name": "Vole", "abstract": "(<i><nobr>mostly</nobr></i>)", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Water voleat", "abstract": "", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Nutria", "abstract": "", "img": "images/icons/ic_cow.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Muskrat", "abstract": "", "img": "images/icons/ic_swine.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Beaver Dog", "abstract": "", "img": "images/icons/ic_horses.svg", "customStyle":"height:100px; padding-top: 0px;"},
+          {"name": "Wild cervids", "abstract": "(<i><nobr>rarely in endemic areas</nobr></i>)", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"}
+        ]
+      }
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": {
+        "definitive": "Since animals are generally asymptomatic, no complications are reported",
+        "intermediate": "Metastatis of the parasitic vesicles to other organs"
+      },
+      "collection": {
+        "definitive": [],
+        "intermediate": []
+      }
+    }
+  }
+}

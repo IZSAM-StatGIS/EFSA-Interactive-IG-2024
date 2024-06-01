@@ -1,0 +1,39 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg" ,"title": "Ensuring handwashing after contact with animals and their environment", "info": ""},
+      {"img": "images/icons/ic_vaccine.svg" ,"title": "Protection of freshwater sources and untreated drinking water supplies from contamination", "info": ""},
+      {"img": "images/icons/ic_gloves.svg" ,"title": "Good hygiene practices at milking", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_gloves.svg" ,"title": "Implementing procedures based on the HACCP principles, and good hygiene practices", "info": ""},
+      {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official controls by competent authorities", "info": ""},
+      {"img": "images/icons/ic_plan.svg", "title": "Applying good hygiene practices for meat production", "info": ""},
+      {"img": "images/icons/ic_milk.svg", "title": "Training properly the food handlers", "info": ""},
+      {"img": "images/icons/ic_milk.svg", "title": "Applying approved bactericidal treatment to foods", "info": ""},
+      {"img": "images/icons/ic_milk.svg", "title": "Ensuring strict personal hygiene", "info": ""}
+    ]
+  },
+  "distribution": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official controls by competent authorities", "info": ""},
+      {"img": "images/icons/ic_check.svg", "title": "Ensure proper handling, transport and storage of food items", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Handling and preparing food in a proper way", "info": ""},
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Avoiding cross-contamination between raw and ready-to-eat products", "info": ""},
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Cook meat thoroughly according to the indications reported on the label", "info": ""},
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Washing, peeling or cooking fruits and vegetables", "info": ""},
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Carefully washing hands before preparing, serving or eating food", "info": ""},
+      {"img": "images/icons/ic_key.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
+    ]
+  }
+}

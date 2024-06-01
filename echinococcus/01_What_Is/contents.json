@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<i>Echinococcus</i> spp. eggs can be inactivated by heat (e.g., 70°C for 30 minutes, boiling), by freezing at -80°C for 48 hours or –70°C for 4 days. They are particularly sensitive to a combination of elevated temperatures and desiccation: 90% of eggs placed in direct sunlight on a petri dish may become nonviable within a day.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "The eggs can remain viable in the environment under aerobic condition and can be infective up to 3 years.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "Data not available.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "<i>Echinococcus</i> spp. eggs need high humidity to survive, at least 70%. Drying out is the primary factor that leads to the death of eggs.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "Data not available.",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}
