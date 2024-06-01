@@ -3,29 +3,29 @@
     "text": "Especially for poultry",
     "collection": [
       {"img": "images/icons/ic_plan.svg" ,"title": "Applying periodic anthelmintic treatments to all dogs (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_vaccine.svg" ,"title": "Preventing dogs from accessing carcasses of dead animals (for E. granulosu", "info": ""},
-      {"img": "images/icons/ic_gloves.svg" ,"title": "Culling aged sheep (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_slaugh.svg" ,"title": "Vaccinating sheep with recombinant vaccine (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_training_1.svg" ,"title": "Baiting foxes with anthelmintic drug (for E. multilocularis)", "info": ""},
-      {"img": "images/icons/ic_training_1.svg" ,"title": "Washing hands (for both E. granulosus s.l. and multilocularis)", "info": ""},
-      {"img": "images/icons/ic_training_1.svg" ,"title": "Using personal protective equipment (for both E. granulosus s.l. and multilocularis)", "info": ""}
+      {"img": "" ,"title": "Preventing dogs from accessing carcasses of dead animals (for E. granulosus)", "info": ""},
+      {"img": "" ,"title": "Culling aged sheep (for E. granulosus s.l.)", "info": ""},
+      {"img": "images/icons/ic_check.svg" ,"title": "Vaccinating sheep with recombinant vaccine (for E. granulosus s.l.)", "info": ""},
+      {"img": "images/icons/ic_vaccine.svg" ,"title": "Baiting foxes with anthelmintic drug (for E. multilocularis)", "info": ""},
+      {"img": "images/icons/ic_wash_hands.svg" ,"title": "Washing hands (for both E. granulosus s.l. and multilocularis)", "info": ""},
+      {"img": "images/icons/ic_gloves_more.svg" ,"title": "Using personal protective equipment (for both E. granulosus s.l. and multilocularis)", "info": ""}
     ]
   },
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_gloves.svg" ,"title": "Conducting visual inspections of carcasses by the competent authority (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_training_1.svg", "title": "Avoiding home slaughtering (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_plan.svg", "title": "Tracing back infections at farms (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_milk.svg", "title": "Destroying infected organs (for E. granulosus s.l.)", "info": ""}
+      {"img": "images/icons/ic_mag.svg" ,"title": "Conducting visual inspections of carcasses by the competent authority (for E. granulosus s.l.)", "info": ""},
+      {"img": "", "title": "Avoiding home slaughtering (for E. granulosus s.l.)", "info": ""},
+      {"img": "images/icons/ic_farm.svg", "title": "Tracing back infections at farms (for E. granulosus s.l.)", "info": ""},
+      {"img": "", "title": "Destroying infected organs (for E. granulosus s.l.)", "info": ""}
     ]
   },
   "customer": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_key.svg", "title": "Avoiding the ingestion of raw food or water from potentially contaminated areas (for both E. granulosus s.l. and multilocularis)","info": ""},
-      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Washing raw food thoroughly before eating (for both E. granulosus s.l. and multilocularis)", "info": ""},
-      {"img": "images/icons/ic_milk.svg", "title": "Washing hands thoroughly (for both E. granulosus s.l. and multilocularis)", "info": ""},
+      {"img": "images/icons/ic_slaugh.svg", "title": "Avoiding the ingestion of raw food or water from potentially contaminated areas (for both E. granulosus s.l. and multilocularis)","info": ""},
+      {"img": "images/icons/ic_igene.svg", "title": "Washing raw food thoroughly before eating (for both E. granulosus s.l. and multilocularis)", "info": ""},
+      {"img": "images/icons/ic_wash_hands.svg", "title": "Washing hands thoroughly (for both E. granulosus s.l. and multilocularis)", "info": ""},
       {"img": "images/icons/ic_key.svg", "title": "Implementing the “Five Keys to Safer Food”, which were developed by WHO to educate consumers and food handlers on safe food handling behaviour", "info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]
   }
