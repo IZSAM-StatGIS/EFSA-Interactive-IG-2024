@@ -12,11 +12,11 @@
       "incubationPeriod": "Depending on location, size, number and stage of cysts: ",
       "text": "",
       "collection": [
-        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_fever.svg"},
-        {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
-        {"name": "Chest pain", "abstract": "", "img": "images/icons/ic_weak.svg"},
-        {"name": "Chronic cough", "abstract": "", "img": "images/icons/ic_headache.svg"},
-        {"name": "Weakness", "abstract": "", "img": "images/icons/ic_joint pain.svg"}
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
+        {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_vomiting.svg"},
+        {"name": "Chest pain", "abstract": "", "img": "images/icons/ic_chest.svg"},
+        {"name": "Chronic cough", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
+        {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"}
       ]
     },
     "whois":{
@@ -25,7 +25,7 @@
       },
       "text": "Anyone living in rural endemic areas, in particular:",
       "collection": [
-        {"name": "Farmers", "abstract": "", "img": "images/icons/ic_artificial.svg"},
+        {"name": "Farmers", "abstract": "", "img": "images/icons/ic_farmer.svg"},
         {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
         {"name": "Dog owners", "abstract": "", "img": "images/icons/ic_hunter.svg"}
       ]
@@ -36,8 +36,8 @@
       },
       "text": "The most common complication is cyst rupture, which leads to:",
       "collection": [
-        {"name": "Anaphylactic shock ", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
-        {"name": "Secondary echinococcosis  ", "abstract": "", "img": "images/icons/ic_orchitis_and_epididymitis.svg"},
+        {"name": "Anaphylactic shock", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Secondary echinococcosis", "abstract": "", "img": "images/icons/ic_orchitis_and_epididymitis.svg"},
         {"name": "Bacterial superinfection", "abstract": "", "img": "images/icons/ic_endocarditis.svg"}
       ]
     }
@@ -62,8 +62,8 @@
         "intermediate": [
           {"name": "Unthriftiness", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
           {"name": "Malaise", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-          {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_a_abortion.svg"}
+          {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
+          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_oozing.svg"}
         ]
       }
     },
@@ -81,12 +81,12 @@
           {"name": "Wolf and other wild canids", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ],
         "intermediate": [
-          {"name": "Sheep", "abstract": "(<i><nobr>Mostly</nobr></i>)", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Goat", "abstract": "", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Sheep", "abstract": "(<i><nobr>Mostly</nobr></i>)", "img": "images/icons/ic_sheep.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Goat", "abstract": "", "img": "images/icons/ic_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Pig", "abstract": "", "img": "images/icons/ic_swine.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Horse", "abstract": ")", "img": "images/icons/ic_horses.svg", "customStyle":"height:100px; padding-top: 0px;"},
-          {"name": "Wild cervids", "abstract": "", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"}
+          {"name": "Horse", "abstract": "", "img": "images/icons/ic_horses.svg", "customStyle":"height:100px; padding-top: 0px;"},
+          {"name": "Wild cervids", "abstract": "", "img": "images/icons/ic_deer.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ]
       }
     },
@@ -101,9 +101,9 @@
       "collection": {
         "definitive": [],
         "intermediate": [
-          {"name": "Reduced growth", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
-          {"name": "Decreased production of milk, meat and wool", "abstract": "", "img": "images/icons/ic_mastits.svg"},
-          {"name": "Reduced birth rate  ", "abstract": "", "img": "images/icons/ic_oozing.svg"}
+          {"name": "Reduced growth", "abstract": "", "img": "images/icons/ic_aloss.svg"},
+          {"name": "Decreased production of milk, meat and wool", "abstract": "", "img": "images/icons/ic_decrease.svg"},
+          {"name": "Reduced birth rate", "abstract": "", "img": "images/icons/ic_a_abortion.svg"}
         ]
       }
     }
