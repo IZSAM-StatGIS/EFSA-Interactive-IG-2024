@@ -76,8 +76,8 @@
       "collection": [
         {"name": "Wild boar", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
         {"name": "Domestic pigs", "abstract": "", "img": "images/icons/ic_swine.svg"},
-        {"name": "Rodents", "abstract": "", "img": "images/icons/ic_horses.svg"},
-        {"name": "Wild birds", "abstract": "", "img": "images/icons/ic_camel.svg"}
+        {"name": "Rodents", "abstract": "", "img": "images/icons/ic_rat.svg"},
+        {"name": "Wild birds", "abstract": "", "img": "images/icons/ic_wild_bird.svg"}
          
       ]
     },

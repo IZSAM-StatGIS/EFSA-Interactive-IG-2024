@@ -26,7 +26,7 @@
       "collection": [
         {"name": "Farmers", "abstract": "", "img": "images/icons/ic_farmer.svg"},
         {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
-        {"name": "Dog owners", "abstract": "", "img": "images/icons/ic_hunter.svg"}
+        {"name": "Dog owners", "abstract": "", "img": "images/icons/ic_dog_owner.svg"}
       ]
     },
     "complications":{
@@ -78,18 +78,17 @@
       },
       "collection": {
         "definitive": [
-          {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_red_fox.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Artic Fox", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Wolf", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Wolf", "abstract": "", "img": "images/icons/ic_wolf.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ],
         "intermediate": [
-          {"name": "Vole", "abstract": "(<i><nobr>mostly</nobr></i>)", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Water voleat", "abstract": "", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Nutria", "abstract": "", "img": "images/icons/ic_cow.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Muskrat", "abstract": "", "img": "images/icons/ic_swine.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Beaver Dog", "abstract": "", "img": "images/icons/ic_horses.svg", "customStyle":"height:100px; padding-top: 0px;"},
+          {"name": "Vole", "abstract": "(<i><nobr>mostly</nobr></i>)", "img": "images/icons/ic_vole.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Nutria", "abstract": "", "img": "images/icons/ic_nutria.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Muskrat", "abstract": "", "img": "images/icons/ic_muskrat.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Beaver Dog", "abstract": "", "img": "images/icons/ic_beaver.svg", "customStyle":"height:100px; padding-top: 0px;"},
           {"name": "Wild cervids", "abstract": "(<i><nobr>rarely in endemic areas</nobr></i>)", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ]
       }
