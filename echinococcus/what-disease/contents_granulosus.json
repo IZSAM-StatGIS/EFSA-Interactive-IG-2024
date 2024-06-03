@@ -78,7 +78,7 @@
       "collection": {
         "definitive": [
           {"name": "Dogs", "abstract": "(<i><nobr>In particular shepherd dogs and farm dogs</nobr></i>)", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Wolf and other wild canids", "abstract": "", "img": "images/icons/ic_wolf.svg", "customStyle":"height:80px; padding-top: 20px;"}
+          {"name": "Wolf and other wild canids", "abstract": "", "img": "images/icons/ic_wolf_jackal.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ],
         "intermediate": [
           {"name": "Sheep", "abstract": "(<i><nobr>Mostly</nobr></i>)", "img": "images/icons/ic_sheep.svg", "customStyle":"height:80px; padding-top: 20px;"},
