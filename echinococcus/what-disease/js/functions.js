@@ -31,7 +31,7 @@ function openFirstLevel(elem) {
   let htmlElem = document.querySelector('#' + elem.currentTarget.id);
   let mainModal = document.querySelector('.main');
 
-  mainModal.innerHTML = getFirstLevelTemplate();
+  mainModal.innerHTML = getFirstLevelTemplate(htmlElem.dataset.target);
 
   document.querySelector('.fl-close').addEventListener("click", closeFirstLevel, false);
   document.querySelectorAll('.fl-box').forEach((elem) => {
