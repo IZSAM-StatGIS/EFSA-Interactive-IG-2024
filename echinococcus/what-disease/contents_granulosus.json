@@ -38,7 +38,7 @@
       "collection": [
         {"name": "Anaphylactic shock", "abstract": "", "img": "images/icons/ic_anaphylactic_shock.svg"},
         {"name": "Secondary echinococcosis", "abstract": "", "img": "images/icons/ic_secondary_echinococcosis.svg"},
-        {"name": "Bacterial superinfection", "abstract": "", "img": "images/icons/ic_bacterial_superinfection.svg"}
+        {"name": "Bacterial superinfection", "abstract": "", "img": "images/icons/ic_sepsis.svg"}
       ]
     }
   },
