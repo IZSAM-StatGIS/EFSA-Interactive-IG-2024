@@ -12,7 +12,7 @@
       "incubationPeriod": "Depending on location, size, number and stage of cysts: ",
       "text": "",
       "collection": [
-        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
         {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_vomiting.svg"},
         {"name": "Chest pain", "abstract": "", "img": "images/icons/ic_chest.svg"},
         {"name": "Chronic cough", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},

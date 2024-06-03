@@ -12,7 +12,7 @@
       "incubationPeriod": "",
       "text": "",
       "collection": [
-        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
         {"name": "Hepatic failure", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
         {"name": "General malaise", "abstract": "", "img": "images/icons/ic_weak.svg"},
         {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
@@ -79,17 +79,16 @@
       "collection": {
         "definitive": [
           {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_red_fox.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Artic Fox", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_racoon_dog.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Wolf", "abstract": "", "img": "images/icons/ic_wolf.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"}
+          {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_golden_jackal.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ],
         "intermediate": [
           {"name": "Vole", "abstract": "(<i><nobr>mostly</nobr></i>)", "img": "images/icons/ic_vole.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Nutria", "abstract": "", "img": "images/icons/ic_nutria.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Muskrat", "abstract": "", "img": "images/icons/ic_muskrat.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Beaver Dog", "abstract": "", "img": "images/icons/ic_beaver.svg", "customStyle":"height:100px; padding-top: 0px;"},
-          {"name": "Wild cervids", "abstract": "(<i><nobr>rarely in endemic areas</nobr></i>)", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"}
+          {"name": "Wild cervids", "abstract": "(<i><nobr>rarely in endemic areas</nobr></i>)", "img": "images/icons/ic_deer.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ]
       }
     },

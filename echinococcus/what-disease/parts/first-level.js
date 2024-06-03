@@ -1,4 +1,4 @@
-export function getFirstLevelTemplate(type){ console.log(type); return `
+export function getFirstLevelTemplate(type){ return `
     <div class="infographics-wrap">
         <div class="modal-close fl-close">
             <img width="24" src="images/icons/ic_arrow_left.svg"><span>Back</span>
