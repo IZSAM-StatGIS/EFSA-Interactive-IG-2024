@@ -26,7 +26,7 @@
       "text": "Anyone living in rural endemic areas, in particular:",
       "collection": [
         {"name": "Farmers", "abstract": "", "img": "images/icons/ic_farmer.svg"},
-        {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
+        {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_veterinarias.svg"},
         {"name": "Dog owners", "abstract": "", "img": "images/icons/ic_dog_owner.svg"}
       ]
     },
@@ -61,9 +61,9 @@
         "definitive": [],
         "intermediate": [
           {"name": "Unthriftiness", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-          {"name": "Malaise", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+          {"name": "Malaise", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"},
           {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
-          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_oozing.svg"}
+          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_ascites.svg"}
         ]
       }
     },

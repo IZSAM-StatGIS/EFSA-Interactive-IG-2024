@@ -13,7 +13,7 @@
       "text": "",
       "collection": [
         {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
-        {"name": "Hepatic failure", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
+        {"name": "Hepatic failure", "abstract": "", "img": "images/icons/Ic_ephatic_failure.svg"},
         {"name": "General malaise", "abstract": "", "img": "images/icons/ic_weak.svg"},
         {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
       ]
@@ -25,7 +25,7 @@
       "text": "Anyone living in rural endemic areas, in particular:",
       "collection": [
         {"name": "Farmers", "abstract": "", "img": "images/icons/ic_farmer.svg"},
-        {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
+        {"name": "Animal handlers", "abstract": "", "img": "images/icons/ic_veterinarias.svg"},
         {"name": "Dog owners", "abstract": "", "img": "images/icons/ic_dog_owner.svg"}
       ]
     },
@@ -35,7 +35,7 @@
       },
       "text": "",
       "collection": [
-        {"name": "Liver failure", "abstract": "", "img": "images/icons/ic_arthritis.svg"}
+        {"name": "Liver failure", "abstract": "", "img": "images/icons/ic_bacterial_superinfection.svg"}
       ]
     }
   },
@@ -60,8 +60,8 @@
           {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"}
         ],
         "intermediate": [
-          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_oozing.svg"},
-          {"name": "Hepatomegaly and abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
+          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_ascites.svg"},
+          {"name": "Hepatomegaly and abdominal pain", "abstract": "", "img": "images/icons/ic_animal_abdominal_pain.svg"},
           {"name": "Dyspnoea", "abstract": "", "img": "images/icons/ic_pneumonia.svg"},
           {"name": "Intermittent diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
           {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_vomiting.svg"}
@@ -79,6 +79,7 @@
       "collection": {
         "definitive": [
           {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_red_fox.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_racoon_dog.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Wolf", "abstract": "", "img": "images/icons/ic_wolf.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_golden_jackal.svg", "customStyle":"height:80px; padding-top: 20px;"}
