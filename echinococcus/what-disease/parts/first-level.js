@@ -8,7 +8,7 @@ export function getFirstLevelTemplate(data){ return `
 			<h2>Humans</h2>
 		</div>
 		<div id="fb2" class="fl-box fb2">
-			<img src="images/icons/ic_brucella_what disease_animals.svg">
+			<img src="images/icons/ic_animals.svg">
 			<h2>Animals</h2>
 		</div>
 	</div>

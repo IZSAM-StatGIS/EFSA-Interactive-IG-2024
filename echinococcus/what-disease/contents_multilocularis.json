@@ -15,7 +15,7 @@
         {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
         {"name": "Hepatic failure", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
         {"name": "General malaise", "abstract": "", "img": "images/icons/ic_weak.svg"},
-        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss_more.svg"}
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
       ]
     },
     "whois":{

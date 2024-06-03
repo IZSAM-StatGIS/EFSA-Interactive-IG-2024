@@ -16,7 +16,7 @@
     "collection": [
       {"img": "images/icons/ic_mag.svg" ,"title": "Conducting visual inspections of carcasses by the competent authority (for E. granulosus s.l.)", "info": ""},
       {"img": "", "title": "Avoiding home slaughtering (for E. granulosus s.l.)", "info": ""},
-      {"img": "images/icons/ic_farm.svg", "title": "Tracing back infections at farms (for E. granulosus s.l.)", "info": ""},
+      {"img": "", "title": "Tracing back infections at farms (for E. granulosus s.l.)", "info": ""},
       {"img": "", "title": "Destroying infected organs (for E. granulosus s.l.)", "info": ""}
     ]
   },
