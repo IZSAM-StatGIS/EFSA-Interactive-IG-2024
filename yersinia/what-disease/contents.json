@@ -10,12 +10,12 @@
         "src": "images/backgrounds/symptoms.svg"
       },
       "incubationPeriod": "",
-      "text": "Yersiniosis caused by Y. pseudotuberculosis tends to be more severe than that caused by Y. enterocolitica. Symptoms may include",
+      "text": "Yersiniosis caused by <i>Y. pseudotuberculosis</i> tends to be more severe than that caused by <i>Y. enterocolitica</i>. Symptoms may include",
       "collection": [
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
-        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_pain.svg"},
         {"name": "Right sided abdominal pain in adults", "abstract": "", "img": "images/icons/ic_chest.svg"},
-        {"name": "Diarrhoea, frequently accompanied by blood (less common for Yersinia pseudotuberculosis)", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
+        {"name": "Diarrhoea, frequently accompanied by blood (less common for <i>Yersinia pseudotuberculosis</i>)", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
       ]
     },
     "whois":{
@@ -56,7 +56,7 @@
         "src": "images/backgrounds/symptoms_animals.svg"
       },
       "incubationPeriod": "",
-      "text": "Yersinia enterocolitica signs might resemble gastroenteritis. Yersinia pseudotuberculosis is mainly asymptomatic. Stress-induced signs resemble mild gastroenteritis:",
+      "text": "<i>Yersinia enterocolitica</i> signs might resemble gastroenteritis. <i>Yersinia pseudotuberculosis</i> is mainly asymptomatic. Stress-induced signs resemble mild gastroenteritis:",
       "collection": [
         {"name": "Reduced well-being", "abstract": "", "img": "images/icons/ic_meningits.svg"},
         {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
@@ -75,7 +75,7 @@
       "text": "",
       "collection": [
         {"name": "Wild boar", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
-        {"name": "Domestic pigs", "abstract": "", "img": "images/icons/ic_swine.svg"},
+        {"name": "Domestic pig", "abstract": "", "img": "images/icons/ic_swine.svg"},
         {"name": "Rodents", "abstract": "", "img": "images/icons/ic_rat.svg"},
         {"name": "Wild birds", "abstract": "", "img": "images/icons/ic_wild_bird.svg"}
          
@@ -85,10 +85,10 @@
       "backgroundImage": {
         "src": "images/backgrounds/complications_animals.svg"
       },
-      "text": "Yersinia pseudotuberculosis",
+      "text": "<i>Yersinia pseudotuberculosis</i>",
       "collection": [
         {"name": "Septicaemia", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
-        {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_mastits.svg"}
+        {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_pneumonia.svg"}
       ]
     }
   }
