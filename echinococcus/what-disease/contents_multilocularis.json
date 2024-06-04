@@ -35,7 +35,7 @@
       },
       "text": "",
       "collection": [
-        {"name": "Liver failure", "abstract": "", "img": "images/icons/ic_bacterial_superinfection.svg"}
+        {"name": "Liver failure", "abstract": "", "img": "images/icons/ic_liver_failure.svg"}
       ]
     }
   },
@@ -103,7 +103,9 @@
       },
       "collection": {
         "definitive": [],
-        "intermediate": []
+        "intermediate": [
+          {"name": "Metastatis of the parasitic vesicles to other organs", "abstract": "", "img": "images/icons/ic_Metastatis.svg", "customStyle":"height:80px; padding-top: 20px;"}
+        ]
       }
     }
   }

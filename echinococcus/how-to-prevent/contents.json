@@ -4,7 +4,7 @@
     "collection": [
       {"img": "images/icons/ic_plan.svg" ,"title": "Applying periodic anthelmintic treatments to all dogs (for E. granulosus s.l.)", "info": ""},
       {"img": "images/icons/ic_carcassa.svg" ,"title": "Preventing dogs from accessing carcasses of dead animals (for E. granulosus)", "info": ""},
-      {"img": "" ,"title": "Culling aged sheep (for E. granulosus s.l.)", "info": ""},
+      {"img": "images/icons/ic_sheep.svg" ,"title": "Culling aged sheep (for E. granulosus s.l.)", "info": ""},
       {"img": "images/icons/ic_check.svg" ,"title": "Vaccinating sheep with recombinant vaccine (for E. granulosus s.l.)", "info": ""},
       {"img": "images/icons/ic_vaccine.svg" ,"title": "Baiting foxes with anthelmintic drug (for E. multilocularis)", "info": ""},
       {"img": "images/icons/ic_wash_hands.svg" ,"title": "Washing hands (for both E. granulosus s.l. and multilocularis)", "info": ""},
