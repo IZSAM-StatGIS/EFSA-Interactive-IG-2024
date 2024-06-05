@@ -1,7 +1,11 @@
-export function getComplicationsTemplate(data, type){ return `
-    <div class="modal-close d-close">
-      <img width="24" src="images/icons/ic_arrow_left.svg"><span>Back</span>
-    </div>
+export function getComplicationsTemplate(data, type, descr){ return `
+<div class="modal-close d-close">
+  <img width="24" src="images/icons/ic_arrow_left.svg">
+  <div>
+      <span>Back</span>
+      <small>${descr}</small>
+  </div>
+</div>
     <div class="detail-modal-body d-slb2">
       <img src="${data.backgroundImage.src}" class="l-img">
       <div class="d-modal-contents">
