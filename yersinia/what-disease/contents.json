@@ -58,7 +58,7 @@
       "incubationPeriod": "",
       "text": "<i>Yersinia enterocolitica</i> signs might resemble gastroenteritis. <i>Yersinia pseudotuberculosis</i> is mainly asymptomatic. Stress-induced signs resemble mild gastroenteritis:",
       "collection": [
-        {"name": "Reduced well-being", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Reduced well-being", "abstract": "", "img": "images/icons/ic_env_stress.svg"},
         {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
         {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"},
         {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_cow.svg"},
