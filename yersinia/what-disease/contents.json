@@ -13,9 +13,9 @@
       "text": "Yersiniosis caused by <i>Y. pseudotuberculosis</i> tends to be more severe than that caused by <i>Y. enterocolitica</i>. Symptoms may include",
       "collection": [
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
-        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_pain.svg"},
+        {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
         {"name": "Right sided abdominal pain in adults", "abstract": "", "img": "images/icons/ic_right_side_pain.svg"},
-        {"name": "Diarrhoea, frequently accompanied by blood (less common for <i>Yersinia pseudotuberculosis</i>)", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
+        {"name": "Diarrhoea, frequently accompanied by blood", "abstract": "(less common for <i>Yersinia pseudotuberculosis</i>)", "img": "images/icons/ic_diarrhoea.svg"}
       ]
     },
     "whois":{
