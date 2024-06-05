@@ -104,7 +104,7 @@
       "collection": {
         "definitive": [],
         "intermediate": [
-          {"name": "Metastatis of the parasitic vesicles to other organs", "abstract": "", "img": "images/icons/ic_Metastatis.svg", "customStyle":"height:80px; padding-top: 20px;"}
+          {"name": "Metastatis of the parasitic vesicles to other organs", "abstract": "", "img": "images/icons/ic_metastatis.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ]
       }
     }
