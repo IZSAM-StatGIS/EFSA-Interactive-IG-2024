@@ -83,7 +83,7 @@
     },
     "complications":{
       "backgroundImage": {
-        "src": "images/backgrounds/complications_animals.svg"
+        "src": "images/icons/ic_animals.svg"
       },
       "text": "<i>Yersinia pseudotuberculosis</i>",
       "collection": [
