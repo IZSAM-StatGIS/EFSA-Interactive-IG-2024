@@ -87,7 +87,7 @@
       },
       "text": "<i>Yersinia pseudotuberculosis</i>",
       "collection": [
-        {"name": "Septicaemia", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Septicaemia", "abstract": "", "img": "images/icons/ic_sepsis.svg"},
         {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_pneumonia.svg"}
       ]
     }
