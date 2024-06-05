@@ -61,8 +61,8 @@ function getCollectionTemplate(collection, type){
     if (collection.length>0) {
         t += `<div class="${type} risk list-container">`;
         collection.forEach((elem) => {
-        t += `<div class="w-elem">
-                <img src="${elem.img}" style="${elem.customStyle}">
+        t += (elem.isImportant ? `<div class="w-elem" style="width: 100%">` : `<div class="w-elem">`);
+        t += `<img src="${elem.img}" style="${elem.customStyle}">
                 <strong>${elem.name}</strong>
                 <small>${elem.abstract}</small>
               </div>`
