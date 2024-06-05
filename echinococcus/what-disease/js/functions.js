@@ -126,13 +126,13 @@ function openDetailLevel(elem) {
 
   switch (elem.currentTarget.id) {
     case 'slb2':
-      dModal.querySelector('.detail-modal-body').innerHTML = getSymptomTemplate(JSON_contents[type].symptoms, type);
+      dModal.querySelector('.detail-modal-body').innerHTML = getSymptomTemplate(JSON_contents[type].symptoms, type, htmlElem.dataset.description);
       break;
     case 'slb3':
-      dModal.querySelector('.detail-modal-body').innerHTML = getWhoIsAtRiskTemplate(JSON_contents[type].whois, type);
+      dModal.querySelector('.detail-modal-body').innerHTML = getWhoIsAtRiskTemplate(JSON_contents[type].whois, type, htmlElem.dataset.description);
       break;
     case 'slb4':
-      dModal.querySelector('.detail-modal-body').innerHTML = getComplicationsTemplate(JSON_contents[type].complications, type);
+      dModal.querySelector('.detail-modal-body').innerHTML = getComplicationsTemplate(JSON_contents[type].complications, type, htmlElem.dataset.description);
       break;
 
   }

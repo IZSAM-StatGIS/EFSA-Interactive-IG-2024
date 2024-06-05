@@ -1,8 +1,12 @@
 import { EnumType } from "../js/type.enum.js";
 
-export function getWhoIsAtRiskTemplate(data, type){ return `
+export function getWhoIsAtRiskTemplate(data, type, descr){ return `
     <div class="modal-close d-close">
-      <img width="24" src="images/icons/ic_arrow_left.svg"><span>Back</span>
+      <img width="24" src="images/icons/ic_arrow_left.svg">
+      <div>
+          <span>Back</span>
+          <small>${descr}</small>
+      </div>
     </div>
     <div class="detail-modal-body d-slb2">
       <img src="${data.backgroundImage.src}" class="l-img">
