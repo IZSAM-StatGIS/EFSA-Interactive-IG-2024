@@ -14,7 +14,7 @@
       "collection": [
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
         {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_adbominal_pain.svg"},
-        {"name": "Right sided abdominal pain in adults", "abstract": "", "img": "images/icons/ic_chest.svg"},
+        {"name": "Right sided abdominal pain in adults", "abstract": "", "img": "images/icons/ic_right_side_pain.svg"},
         {"name": "Diarrhoea, frequently accompanied by blood (less common for <i>Yersinia pseudotuberculosis</i>)", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
       ]
     },
@@ -37,7 +37,7 @@
       "text": "",
       "collection": [
         {"name": "Reactive arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
-        {"name": "Erythema nodosum", "abstract": "", "img": "images/icons/ic_gb.svg"},
+        {"name": "Erythema nodosum", "abstract": "", "img": "images/icons/ic_erythema_nodosum.svg"},
         {"name": "Systemic forms", "abstract": "", "img": "images/icons/ic_immunecomp.svg"},
         {"name": "Myocarditis", "abstract": "", "img": "images/icons/ic_heart.svg"},
         {"name": "Sepsis", "abstract": "(less often)", "img": "images/icons/ic_sepsis.svg"},
@@ -60,11 +60,11 @@
       "collection": [
         {"name": "Reduced well-being", "abstract": "", "img": "images/icons/ic_meningits.svg"},
         {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
-        {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"},
+        {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"},
         {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_cow.svg"},
         {"name": "Loss of appetite", "abstract": "", "img": "images/icons/ic_infertility.svg"},
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
-        {"name": "Emaciation", "abstract": "", "img": "images/icons/ic_aloss.svg"},
+        {"name": "Emaciation", "abstract": "", "img": "images/icons/ic_loss_appetite.svg"},
         {"name": "Incoordination", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"}
       ]
     },

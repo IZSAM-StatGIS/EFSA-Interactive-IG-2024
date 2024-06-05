@@ -29,7 +29,7 @@
     "text": "",
     "collection": [
       {"img": "images/icons/ic_gloves.svg", "title": "Handling and preparing food in a proper way", "info": ""},
-      {"img": "", "title": "Avoiding cross-contamination between raw and ready-to-eat products", "info": ""},
+      {"img": "images/icons/ic_salad.svg", "title": "Avoiding cross-contamination between raw and ready-to-eat products", "info": ""},
       {"img": "images/icons/ic_slaugh.svg", "title": "Cook meat thoroughly according to the indications reported on the label", "info": ""},
       {"img": "images/icons/ic_igene.svg", "title": "Washing, peeling or cooking fruits and vegetables", "info": ""},
       {"img": "images/icons/ic_wash_hands.svg", "title": "Carefully washing hands before preparing, serving or eating food", "info": ""},
