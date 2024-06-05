@@ -65,7 +65,7 @@
         {"name": "Loss of appetite", "abstract": "", "img": "images/icons/ic_loss_appetite.svg"},
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
         {"name": "Emaciation", "abstract": "", "img": "images/icons/ic_pig_emaciation.svg"},
-        {"name": "Incoordination", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"}
+        {"name": "Incoordination", "abstract": "", "img": "images/icons/ic_pig_incoordination.svg"}
       ]
     },
     "whois":{
