@@ -109,7 +109,7 @@ html{
 }
 
 .slb1{
-  align-items: baseline;
+  align-items: end;
   text-align: right!important;
   background-color: #9dc9c4;
   background-image: url(../images/icons/ic_qm.svg);

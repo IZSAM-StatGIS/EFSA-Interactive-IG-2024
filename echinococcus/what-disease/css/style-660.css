@@ -76,7 +76,7 @@
   }
 
   .d-modal-contents .risk.list-container{
-    max-height: calc(100vh - 230px);
+    max-height: calc(100vh - 290px);
   }
 
   /****** Transform *********/

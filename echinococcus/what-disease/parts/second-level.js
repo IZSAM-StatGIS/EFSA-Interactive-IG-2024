@@ -1,9 +1,9 @@
-export function getSecondLevelTemplate(data, type){ return `
+export function getSecondLevelTemplate(data, type, descr){ return `
     <div class="modal-close sl-close">
         <img width="24" src="images/icons/ic_arrow_left.svg">
         <div>
             <span>Back</span>
-            <small>${type}</small>
+            <small>${descr}</small>
         </div>
     </div>
     <div class="sl-box slb1">

@@ -31,7 +31,7 @@ function openFirstLevel(elem) {
   let htmlElem = document.querySelector('#' + elem.currentTarget.id);
   let mainModal = document.querySelector('.main');
 
-  mainModal.innerHTML = getFirstLevelTemplate(htmlElem.dataset.target);
+  mainModal.innerHTML = getFirstLevelTemplate(htmlElem.dataset.target, htmlElem.dataset.description);
 
   document.querySelector('.fl-close').addEventListener("click", closeFirstLevel, false);
   document.querySelectorAll('.fl-box').forEach((elem) => {
@@ -70,10 +70,10 @@ function openSecondLevel(elem) {
 
   switch (elem.currentTarget.id) {
     case 'fb1':
-      slModal.innerHTML = getSecondLevelTemplate(JSON_contents.humans, EnumType.HUMAN);
+      slModal.innerHTML = getSecondLevelTemplate(JSON_contents.humans, EnumType.HUMAN, htmlElem.dataset.description);
       break;
     case 'fb2':
-      slModal.innerHTML = getSecondLevelTemplate(JSON_contents.animals, EnumType.ANIMAL);
+      slModal.innerHTML = getSecondLevelTemplate(JSON_contents.animals, EnumType.ANIMAL, htmlElem.dataset.description);
       break;
   }
 
