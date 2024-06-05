@@ -39,8 +39,8 @@ function openFirstLevel(elem) {
   })
 
   otherHtmlElem.classList.add('e-box-closed');
-  setTimeout(() => { htmlElem.classList.add('opacity-0', 'e-selected') }, 290);
-  setTimeout(() => { htmlElem.classList.add('d-none') }, 400);
+  setTimeout(() => { otherHtmlElem.classList.add('d-none') }, 300);
+  setTimeout(() => { htmlElem.classList.add('opacity-0', 'e-selected', "full-screen") }, 350);
   setTimeout(() => { mainModal.classList.add('e-modal-inn') }, 400);
   setTimeout(() => { mainModal.classList.add('opacity-1') }, 410);
 }
@@ -54,8 +54,8 @@ function closeFirstLevel() {
 
   mainModal.classList.remove('opacity-1');
   setTimeout(() => { mainModal.classList.remove('e-modal-inn') }, 200);
-  setTimeout(() => { htmlElem.classList.remove('d-none') }, 300);
-  setTimeout(() => { htmlElem.classList.remove('opacity-0', 'e-selected') }, 400);
+  setTimeout(() => { htmlElem.classList.remove('opacity-0', 'e-selected', "full-screen") }, 200);
+  setTimeout(() => { otherHtmlElem.classList.remove('d-none') }, 300);
   setTimeout(() => { otherHtmlElem.classList.remove('e-box-closed'); }, 600);
 
   mainModal.innerHTML = '';
