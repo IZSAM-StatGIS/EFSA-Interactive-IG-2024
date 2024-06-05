@@ -1,27 +1,27 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "Both <i>Yersinia</i> enterocolitica and <i>Yersinia</i> pseudotuberculosis are psycrotrophic: they can survive at temperatures below +4°C, making refrigerated food susceptible to contamination. Y. enterocolitica grows at 0-45°C, optimum 25-32°C. Y. pseudotuberculosis grows at 4-43°C, optimum 25-28°C. Both are motile by peritrichous flagella at temperatures between 20°C and 30°C (optimum 25°C) and immobile at 37°C.",
+    "content": "Both <i>Yersinia enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> are psycrotrophic: they can survive at temperatures below +4°C, making refrigerated food susceptible to contamination. <i>Y. enterocolitica</i> grows at 0-45°C, optimum 25-32°C. <i>Y. pseudotuberculosis</i> grows at 4-43°C, optimum 25-28°C. Both are motile by peritrichous flagella at temperatures between 20°C and 30°C (optimum 25°C) and immobile at 37°C.",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "Both <i>Yersinia</i> enterocolitica and <i>Yersinia</i> pseudotuberculosis are facultative anaerobic. Therefore, they can survive with or without oxygen.",
+    "content": "Both <i>Yersinia enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> are facultative anaerobic. Therefore, they can survive with or without oxygen.",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
     "title": "pH",
-    "content": "<i>Yersinia</i> enterocolitica survives at pH between 4.2 and 9.0; <i>Yersinia</i> pseudotuberculosis survives at pH between 5.0 and 9.6. For both, the optimum pH is 7.6.",
+    "content": "<i>Yersinia enterocolitica</i> survives at pH between 4.2 and 9.0; <i>Yersinia pseudotuberculosis</i> survives at pH between 5.0 and 9.6. For both, the optimum pH is 7.6.",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
     "title": "Water",
-    "content": "<i>Yersinia</i> enterocolitica: minimum water activity (aw) at which growth occurs is 0.96",
+    "content": "<i>Yersinia enterocolitica</i>: minimum water activity (aw) at which growth occurs is 0.96",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
     "title": "Salinity",
-    "content": "<i>Yersinia</i> enterocolitica: able to grow in environments with up to 5% salt concentration; <i>Yersinia</i> pseudotuberculosis: able to grow in environments with up to 3.5% salt concentration",
+    "content": "<i>Yersinia enterocolitica</i>: able to grow in environments with up to 5% salt concentration; <i>Yersinia pseudotuberculosis</i>: able to grow in environments with up to 3.5% salt concentration",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 
