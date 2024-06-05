@@ -62,9 +62,9 @@
         {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
         {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"},
         {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_cow.svg"},
-        {"name": "Loss of appetite", "abstract": "", "img": "images/icons/ic_infertility.svg"},
+        {"name": "Loss of appetite", "abstract": "", "img": "images/icons/ic_loss_appetite.svg"},
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
-        {"name": "Emaciation", "abstract": "", "img": "images/icons/ic_loss_appetite.svg"},
+        {"name": "Emaciation", "abstract": "", "img": "images/icons/ic_infertility.svg"},
         {"name": "Incoordination", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"}
       ]
     },
