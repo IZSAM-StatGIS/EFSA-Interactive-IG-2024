@@ -158,13 +158,18 @@ html{
 }
 
 .modal-close{
-  display: block;
+  display: flex;
   position: absolute;
   top: 12px;
   left: 12px;
   color: #fff;
   font-family: 'Verdana', sans-serif;
   cursor: pointer;
+}
+
+.modal-close > div{
+  display: flex;
+  flex-direction: column;
 }
 
 .modal-close.sl-box-closed{
