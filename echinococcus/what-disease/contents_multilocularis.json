@@ -89,7 +89,7 @@
           {"name": "Water vole", "abstract": "", "img": "images/icons/ic_water_vole.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Nutria", "abstract": "", "img": "images/icons/ic_nutria.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Muskrat", "abstract": "", "img": "images/icons/ic_muskrat.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Beaver dog", "abstract": "", "img": "images/icons/ic_beaver.svg", "customStyle":"height:80px; padding-top: 0px;"},
+          {"name": "Beaver", "abstract": "", "img": "images/icons/ic_beaver.svg", "customStyle":"height:80px; padding-top: 0px;"},
           {"name": "Dog", "abstract": "(<i><nobr>rarely in endemic areas</nobr></i>)", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ]
       }
