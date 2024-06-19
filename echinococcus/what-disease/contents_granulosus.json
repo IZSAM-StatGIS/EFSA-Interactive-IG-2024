@@ -61,7 +61,7 @@
         "definitive": [],
         "intermediate": [
           {"name": "Unthriftiness", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
-          {"name": "Malaise", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"},
+          {"name": "Malaise", "abstract": "", "img": "images/icons/ic_malaise.svg"},
           {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
           {"name": "Ascites", "abstract": "", "img": "images/icons/ic_ascites.svg"}
         ]

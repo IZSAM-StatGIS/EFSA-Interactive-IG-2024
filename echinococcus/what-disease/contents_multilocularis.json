@@ -60,8 +60,8 @@
           {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"}
         ],
         "intermediate": [
-          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_ascites.svg"},
-          {"name": "Hepatomegaly and abdominal pain", "abstract": "", "img": "images/icons/ic_animal_abdominal_pain.svg"},
+          {"name": "Ascites", "abstract": "", "img": "images/icons/ic_multi_ascites.svg"},
+          {"name": "Hepatomegaly and abdominal pain", "abstract": "", "img": "images/icons/ic_multi_hepatomegalia.svg"},
           {"name": "Dyspnoea", "abstract": "", "img": "images/icons/ic_pneumonia.svg"},
           {"name": "Intermittent diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
           {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_vomiting.svg"}
@@ -80,7 +80,7 @@
         "definitive": [
           {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_red_fox.svg", "customStyle":"height:100px; padding-top: 0px;", "isImportant": "true"},
           {"name": "Dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_racoon_dog.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_multi_racoon_dog.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Wolf", "abstract": "", "img": "images/icons/ic_wolf.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_golden_jackal.svg", "customStyle":"height:80px; padding-top: 20px;"}
         ],
