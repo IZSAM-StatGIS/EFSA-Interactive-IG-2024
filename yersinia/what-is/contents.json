@@ -1,7 +1,7 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "Both <i>Yersinia enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> are psycrotrophic: they can survive at temperatures below +4°C, making refrigerated food susceptible to contamination. <i>Y. enterocolitica</i> grows at 0-45°C, optimum 25-32°C. <i>Y. pseudotuberculosis</i> grows at 4-43°C, optimum 25-28°C. Both are motile by peritrichous flagella at temperatures between 20°C and 30°C (optimum 25°C) and immobile at 37°C.",
+    "content": "Both <i>Yersinia enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> are psycrotrophic: they can survive at temperatures below +4°C, making refrigerated food susceptible to contamination.<br><i>Y. enterocolitica</i> grows at 0-45°C, optimum 25-32°C.<br><i>Y. pseudotuberculosis</i> grows at 4-43°C, optimum 25-28°C.<br>Both are motile by peritrichous flagella at temperatures between 20°C and 30°C (optimum 25°C) and immobile at 37°C.",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
@@ -11,7 +11,7 @@
   },
   "ph": {
     "title": "pH",
-    "content": "<i>Yersinia enterocolitica</i> survives at pH between 4.2 and 9.0; <i>Yersinia pseudotuberculosis</i> survives at pH between 5.0 and 9.6. For both, the optimum pH is 7.6.",
+    "content": "<i>Yersinia enterocolitica</i> survives at pH between 4.2 and 9.0;<br><i>Yersinia pseudotuberculosis</i> survives at pH between 5.0 and 9.6. For both, the optimum pH is 7.6.",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
@@ -21,7 +21,7 @@
   },
   "salinity": {
     "title": "Salinity",
-    "content": "<i>Yersinia enterocolitica</i>: able to grow in environments with up to 5% salt concentration; <i>Yersinia pseudotuberculosis</i>: able to grow in environments with up to 3.5% salt concentration",
+    "content": "<i>Yersinia enterocolitica</i>: able to grow in environments with up to 5% salt concentration;<br><i>Yersinia pseudotuberculosis</i>: able to grow in environments with up to 3.5% salt concentration",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 

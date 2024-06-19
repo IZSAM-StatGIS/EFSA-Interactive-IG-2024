@@ -152,7 +152,7 @@ h2 {
   height: 100%;
   overflow: hidden;
   background-color: #1f5780;
-  background-image: url("../images/bkgr.jpg");
+  background-image: url("../images/bkgr.png");
   background-size: cover;
   z-index: 100;
   opacity: 0;
