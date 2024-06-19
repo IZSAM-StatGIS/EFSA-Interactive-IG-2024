@@ -1,6 +1,8 @@
 import { EnumType } from "../js/type.enum.js";
 
-export function getWhoIsAtRiskTemplate(data, type, descr){ return `
+export function getWhoIsAtRiskTemplate(data, type, descr){ 
+  const backgr = (type === EnumType.ANIMAL ? data.backgroundImage.src.def : data.backgroundImage.src);
+  return `
     <div class="modal-close d-close">
       <img width="24" src="images/icons/ic_arrow_left.svg">
       <div>
@@ -9,7 +11,7 @@ export function getWhoIsAtRiskTemplate(data, type, descr){ return `
       </div>
     </div>
     <div class="detail-modal-body d-slb2">
-      <img src="${data.backgroundImage.src}" class="l-img">
+      <img src="${backgr}" class="l-img">
       <div class="d-modal-contents">
         <h2>Who is at risk?</h2>
         ${getEchiTemplate(data, type)}

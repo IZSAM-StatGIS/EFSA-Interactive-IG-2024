@@ -109,6 +109,7 @@ function openDetailLevel(elem) {
   let otherElemCollection = slModal.querySelectorAll('div:not(#' + elem.currentTarget.id + ')');
 
   let type = (htmlElem.classList.contains(EnumType.HUMAN) ? EnumType.HUMAN : EnumType.ANIMAL);
+  let section = elem.currentTarget.dataset.section;
 
   document.addEventListener("click", function (e) {
     const target = e.target.closest(".host-btn");
@@ -121,6 +122,7 @@ function openDetailLevel(elem) {
         elem.classList.remove('active');
       });
       target.classList.add('active');
+      document.querySelector('.l-img').src=JSON_contents[type][section].backgroundImage.src[target.dataset.host];
     }
   });
 

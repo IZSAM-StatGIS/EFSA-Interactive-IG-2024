@@ -41,13 +41,16 @@
   },
   "animals": {
     "secondLevelItems": [
-      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
-      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
-      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg", "section":"symptoms"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg", "section":"whois"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg", "section":"complications"}
     ],
     "symptoms": {
       "backgroundImage": {
-        "src": "images/backgrounds/symptoms_animals.svg"
+        "src": {
+          "def": "images/backgrounds/bg_echino_multi_definitive.svg",
+          "int": "images/backgrounds/bg_echino_multi_intermediate.svg"
+        }
       },
       "incubationPeriod": "",
       "text": {
@@ -70,7 +73,10 @@
     },
     "whois":{
       "backgroundImage": {
-        "src": "images/backgrounds/whois_animals.svg"
+        "src": {
+          "def": "images/backgrounds/bg_echino_multi_definitive.svg",
+          "int": "images/backgrounds/bg_echino_multi_intermediate.svg"
+        }
       },
       "text": {
         "definitive": "",
@@ -96,7 +102,10 @@
     },
     "complications":{
       "backgroundImage": {
-        "src": "images/backgrounds/complications_animals.svg"
+        "src": {
+          "def": "images/backgrounds/bg_echino_multi_definitive.svg",
+          "int": "images/backgrounds/bg_echino_multi_intermediate.svg"
+        }
       },
       "text": {
         "definitive": "Since animals are generally asymptomatic, no complications are reported",
