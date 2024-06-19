@@ -3,7 +3,7 @@
     "text": "Especially for poultry",
     "collection": [
       {"img": "images/icons/ic_wash_hands.svg" ,"title": "Ensuring handwashing after contact with animals and their environment", "info": ""},
-      {"img": "images/icons/ic_cold.svg" ,"title": "Protection of freshwater sources and untreated drinking water supplies from contamination", "info": ""},
+      {"img": "images/icons/ic_priv_water.svg" ,"title": "Protection of freshwater sources and untreated drinking water supplies from contamination", "info": ""},
       {"img": "images/icons/ic_gloves_more.svg" ,"title": "Good hygiene practices at milking", "info": ""}
     ]
   },
@@ -12,7 +12,7 @@
     "collection": [
       {"img": "images/icons/ic_gloves_more.svg" ,"title": "Implementing procedures based on the HACCP principles, and good hygiene practices", "info": ""},
       {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official controls by competent authorities", "info": ""},
-      {"img": "images/icons/ic_igene.svg", "title": "Applying good hygiene practices for meat production", "info": ""},
+      {"img": "images/icons/ic_manuf.svg", "title": "Applying good hygiene practices for meat production", "info": ""},
       {"img": "images/icons/ic_gloves.svg", "title": "Training properly the food handlers", "info": ""},
       {"img": "images/icons/ic_check.svg", "title": "Applying approved bactericidal treatment to foods", "info": ""},
       {"img": "images/icons/ic_wash_hands.svg", "title": "Ensuring strict personal hygiene", "info": ""}
@@ -28,7 +28,7 @@
   "customer": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_gloves.svg", "title": "Handling and preparing food in a proper way", "info": ""},
+      {"img": "images/icons/ic_tagliere.svg", "title": "Handling and preparing food in a proper way", "info": ""},
       {"img": "images/icons/ic_salad.svg", "title": "Avoiding cross-contamination between raw and ready-to-eat products", "info": ""},
       {"img": "images/icons/ic_slaugh.svg", "title": "Cook meat thoroughly according to the indications reported on the label", "info": ""},
       {"img": "images/icons/ic_igene.svg", "title": "Washing, peeling or cooking fruits and vegetables", "info": ""},
