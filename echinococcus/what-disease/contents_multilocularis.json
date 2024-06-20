@@ -85,10 +85,12 @@
       "collection": {
         "definitive": [
           {"name": "Red Fox", "abstract": "(<i><nobr>primarily</nobr></i>)", "img": "images/icons/ic_red_fox.svg", "customStyle":"height:100px; padding-top: 0px;", "isImportant": "true"},
-          {"name": "Dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Artic Fox", "abstract": "", "img": "images/icons/ic_artic_fox.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Racoon dog", "abstract": "", "img": "images/icons/ic_multi_racoon_dog.svg", "customStyle":"height:80px; padding-top: 20px;"},
           {"name": "Wolf", "abstract": "", "img": "images/icons/ic_wolf.svg", "customStyle":"height:80px; padding-top: 20px;"},
-          {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_golden_jackal.svg", "customStyle":"height:80px; padding-top: 20px;"}
+          {"name": "Golden jackals", "abstract": "", "img": "images/icons/ic_golden_jackal.svg", "customStyle":"height:80px; padding-top: 20px;"},
+          {"name": "Dog", "abstract": "", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"}
+        
         ],
         "intermediate": [
           {"name": "Vole", "abstract": "(<i><nobr>mostly</nobr></i>)", "img": "images/icons/ic_vole.svg", "customStyle":"height:80px; padding-top: 20px;", "isImportant": "true"},
