@@ -7,6 +7,7 @@ import { getFirstLevelTemplate } from "../parts/first-level.js";
 
 const bodyEl = document.body;
 let JSON_contents;
+let echi;
 
 function getContentData(echiType) {
   fetch(echiType).then(response => {
@@ -24,6 +25,7 @@ document.querySelectorAll('.echi-box').forEach((elem) => {
 })
 
 function openFirstLevel(elem) {
+  echi = elem.currentTarget.id;
   getContentData((elem.currentTarget.id === 'echi1' ? 'contents_multilocularis.json' : 'contents_granulosus.json'));
 
   let htmlIw = document.querySelector('.echi-wrap');
@@ -122,7 +124,15 @@ function openDetailLevel(elem) {
         elem.classList.remove('active');
       });
       target.classList.add('active');
-      document.querySelector('.l-img').src=JSON_contents[type][section].backgroundImage.src[target.dataset.host];
+      if(JSON_contents[type][section]){
+        document.querySelector('.l-img').src=JSON_contents[type][section].backgroundImage.src[target.dataset.host];
+      }
+      if(echi === 'echi1' && target.dataset.host === 'int'){
+        document.querySelector('.l-img').classList.add('interm');
+      }else{
+        document.querySelector('.l-img').classList.remove('interm');
+      }
+    
     }
   });
 
