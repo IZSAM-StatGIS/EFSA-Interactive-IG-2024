@@ -1,0 +1,155 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Disease evolution", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "typically, 2–3 months, but can range from one week to one year ",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Initial phase with nonspecific symptoms:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Weakness", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
+            {"name": "Discomfort", "abstract": "", "img": "images/icons/ic_right_side_pain.svg"},
+            {"name": "Headache", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Prickling", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Itching at the infection site", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Paraesthesia", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
+          ]
+        },
+        {
+          "text":"After a few days, rabies progress to the acute neurological phase:",
+          "phaseDescr": "Furious or encephalitic form:",
+          "collection": [
+            {"name": "Hyperactivity", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Excitable behaviour", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
+            {"name": "Hallucinations", "abstract": "", "img": "images/icons/ic_right_side_pain.svg"},
+            {"name": "Lack of coordination", "abstract": "(less common for <i>Yersinia pseudotuberculosis</i>)", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Hydrophobia", "abstract": "(less common for <i>Yersinia pseudotuberculosis</i>)", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Aerophobia", "abstract": "(less common for <i>Yersinia pseudotuberculosis</i>)", "img": "images/icons/ic_diarrhoea.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Paralytic form:",
+          "collection": [
+            {"name": "Muscle weakness", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Progressive paralysis", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Marginalised and poor populations with limited access to information in countries where rabies is still prevalent  ",
+      "collection": [
+        {"name": "Children", "abstract": "", "img": "images/icons/ic_children.svg"},
+        {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_children.svg"},
+        {"name": "People handling animals that could have rabies", "abstract": "(e.g. bat)", "img": "images/icons/ic_children.svg"},
+        {"name": "Wildlife officers", "abstract": "", "img": "images/icons/ic_children.svg"},
+        {"name": "Laboratory personnel who work with live rabies virus", "abstract": "", "img": "images/icons/ic_children.svg"},
+        {"name": "International travellers in regions with a high risk of rabies", "abstract": "", "img": "images/icons/ic_children.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "Without appropriate post-exposure treatment",
+      "collection": [
+        {"name": "Death", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Neurological sequelae", "abstract": "", "img": "images/icons/ic_erythema_nodosum.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Disease evolution", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/icons/ic_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Initial phase with nonspecific symptoms",
+          "collection": [
+            {"name": "Anorexia or increased appetite", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
+            {"name": "Vomiting", "abstract": "", "img": "images/icons/ic_right_side_pain.svg"},
+            {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Excessive salivation", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Neurological involvement", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
+          ]
+        },
+        {
+          "text":"After a few days, rabies progresses to the acute neurological phase, often resembling symptoms seen in humans, with the addition of:",
+          "phaseDescr": "Furious or encephalitic form",
+          "collection": [
+            {"name": "Aggressivity", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Restlessness", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Paralytic form",
+          "collection": [
+            {"name": "Profuse salivation", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Change in vocalisation", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "Flying and non-flying terrestrial mammals, such as:",
+      "levels": [
+        {
+          "text": "At global level",
+          "collection": [
+            {"name": "Dog", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Cattle", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Fox", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Bat", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Cat", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Raccoon", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Skunk", "abstract": "", "img": "images/icons/ic_wild_boar.svg"}
+          ]
+        },
+        {
+          "text": "At European level",
+          "collection": [
+            {"name": "Dog", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Cattle", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Fox", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Cat", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+            {"name": "Raccoon dog", "abstract": "", "img": "images/icons/ic_wild_boar.svg"}
+          ]
+        }
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/icons/ic_animals.svg"
+      },
+      "text": "The infection leads to death.",
+      "collection": []
+    }
+  }
+}
