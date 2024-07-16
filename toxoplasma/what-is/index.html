@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Basic Page Needs
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta charset="utf-8">
+	<title>Environmental conditions</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<!-- Mobile Specific Metas
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style-640.css">
+	<link rel="stylesheet" href="css/style-850.css">
+	<!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+	<section class="main">
+		<div class="infographics-wrap">
+			<h1>Environmental<br>conditions</h1>
+			<h2>for growth<br>and survival</h2>
+
+			<small class="t too" onclick="showModal('toxo_oocysts')">Oocysts - non sporulated</small>
+			<img id="toxo_oocysts" class="ic ic-ooc" src="images/toxo_oocysts.svg" onclick="showModal('toxo_oocysts')"/>
+			
+			<small class="t tsp" onclick="showModal('toxo_oocysts_sporulated')">Oocysts - sporulated</small>
+			<img id="toxo_oocysts_sporulated" class="ic ic-spo" src="images/toxo_oocysts_sporulated.svg" onclick="showModal('toxo_oocysts_sporulated')"/>
+			
+			<small class="t tcy" onclick="showModal('toxo_cysts')">Cysts (Bradyzoites)</small>
+			<img id="toxo_cysts" class="ic ic-cys" src="images/toxo_cysts.svg" onclick="showModal('toxo_cysts')"/>
+
+			<small class="t tta" onclick="showModal('toxo_tachyzoites')">Tachyzoites</small>
+			<img id="toxo_tachyzoites" class="ic ic-tac" src="images/toxo_tachyzoites.svg" onclick="showModal('toxo_tachyzoites')"/>
+			
+		</div>
+	</section>
+
+	<section class="modal">
+		<div class="modal-box">
+			<div class="modal-close" onclick="closeModal(this)">
+				<img width="32" src="images/icons/ic_close.svg">
+			</div>
+			<div class="modal-visual">
+				<img class="modal-visual-img" src="" alt="">
+			</div>
+			<div class="modal-contents">
+				<div class="modal-title">
+				</div>
+				<div class="modal-content">
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="js/functions.js"></script>
+
+	<!-- End Document
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
