@@ -1,0 +1,161 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "5-23 days in healthy individuals",
+      "phases": [
+        {
+          "text":"Most people who become infected with Toxoplasma gondii are asymptomatic.",
+          "phaseDescr": "In healthy individuals, when observed, symptoms typically resemble a flu-like syndrome:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Headache", "abstract": "", "img": "images/icons/ic_headache.svg"},
+            {"name": "Swollen lymph nodes", "abstract": "", "img": "images/icons/ic_swollen_lymph_nodes.svg"},
+            {"name": "Sore throat", "abstract": "", "img": "images/icons/ic_sore_throat.svg"},
+            {"name": "Muscle aches", "abstract": "", "img": "images/icons/ic_muscle_weakness.svg"},
+            {"name": "Asthenia", "abstract": "", "img": "images/icons/ic_asthenia.svg"},
+            {"name": "Cutaneous rash", "abstract": "", "img": "images/icons/ic_cutaneous_rash.svg"},
+            {"name": "Eye lesions", "abstract": "(occasionally)", "img": "images/icons/ic_eye_lesions.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Individuals with severely weakened immune systems", "abstract": "(e.g., individuals with AIDS, those taking certain types of chemotherapy, and those who have recently received an organ transplant)", "img": "images/icons/ic_immunecomp.svg"},
+        {"name": "Infants born to mothers who are newly infected with T. gondii during or just before pregnancy.", "abstract": "", "img": "images/icons/ic_infants.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "<b>Immunocompromised individuals</b> are at higher risk of developing complications such as:",
+          "collection": [
+            {"name": "Encephalitis", "abstract": "", "img": "images/icons/ic_encephalitis.svg"},
+            {"name": "Abscesses in nervous tissue", "abstract": "", "img": "images/icons/ic_abscesses.svg"},
+            {"name": "Recurrent ocular lesions", "abstract": "", "img": "images/icons/ic_recurrent_ocular_lesions.svg"},
+            {"name": "Skin lesions", "abstract": "", "img": "images/icons/ic_skin_lesions.svg"},
+            {"name": "Involvement of other organs", "abstract": "", "img": "images/icons/ic_involvement_lungs_heart.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "First infection acquired during pregnancy might lead to:",
+          "collection": [
+            {"name": "1st trimester: miscarriage, severe brain lesions, in utero death", "abstract": "", "img": "images/icons/ic_1st_trimester.svg"},
+            {"name": "2nd trimester: hydrocephalus, microcephalus, intracerebral calcifications, severe ocular lesions", "abstract": "", "img": "images/icons/ic_2nd_trimester.svg"},
+            {"name": "3rd trimester: mild vision impairment, intracerebral calcifications", "abstract": "", "img": "images/icons/ic_3rd_trimester.svg"},
+            {"name": "Infected newborns: visual and learning problems", "abstract": "", "img": "images/icons/ic_infected_newborns.svg"}
+          ]
+        }
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/icons/ic_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "",
+      "phases": [
+        {
+          "text":"Most animals infected with Toxoplasma gondii are asymptomatic.",
+          "phaseDescr": "In cat, when observed, general clinical signs include:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "In kittens:",
+          "collection": [
+            {"name": "Ascites", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Dyspnea", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "In young dogs (less than one year) signs might include:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Vomiting", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "In sheep, goat, and pig, signs might include:",
+          "collection": [
+            {"name": "Abortion, foetal mummification, stillbirth, neonatal mortality ", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/icons/ic_animals.svg"
+      },
+      "text": "Young and immunocompromised cats and dogs",
+      "collection": [
+        {"name": "Sheep, goat and pig (only female) ", "abstract": "", "img": "images/icons/ic_.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/icons/ic_animals.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "More severe signs and complications in cat may include:",
+          "collection": [
+            {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Cutaneous problems", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Reproductive losses", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Adult dog might show:",
+          "collection": [
+            {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Skin lesions", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Reproductive losses",
+          "collection": [
+          ]
+        }
+      ]
+    }
+  }
+}
