@@ -12,7 +12,7 @@
       "incubationPeriod": "5-23 days in healthy individuals",
       "phases": [
         {
-          "text":"Most people who become infected with Toxoplasma gondii are asymptomatic.",
+          "text":"Most people who become infected with <i>Toxoplasma</i> gondii are asymptomatic.",
           "phaseDescr": "In healthy individuals, when observed, symptoms typically resemble a flu-like syndrome:",
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
@@ -34,7 +34,7 @@
       "text": "",
       "collection": [
         {"name": "Individuals with severely weakened immune systems", "abstract": "(e.g., individuals with AIDS, those taking certain types of chemotherapy, and those who have recently received an organ transplant)", "img": "images/icons/ic_immunecomp.svg"},
-        {"name": "Infants born to mothers who are newly infected with T. gondii during or just before pregnancy.", "abstract": "", "img": "images/icons/ic_infants.svg"}
+        {"name": "Infants born to mothers who are infected for the first time with <i>T. gondii</i> during or just before pregnancy  ", "abstract": "", "img": "images/icons/ic_infants.svg"}
       ]
     },
     "complications":{
@@ -80,7 +80,7 @@
       "text": "",
       "phases": [
         {
-          "text":"Most animals infected with Toxoplasma gondii are asymptomatic.",
+          "text":"Most animals infected with <i>Toxoplasma gondii</i> are asymptomatic.",
           "phaseDescr": "In cat, when observed, general clinical signs include:",
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
@@ -119,8 +119,9 @@
       "backgroundImage": {
         "src": "images/icons/ic_animals.svg"
       },
-      "text": "Young and immunocompromised cats and dogs",
+      "text": "",
       "collection": [
+        {"name": "Young and immunocompromised cats and dogs ", "abstract": "", "img": "images/icons/ic_.svg"},
         {"name": "Sheep, goat and pig (only female) ", "abstract": "", "img": "images/icons/ic_.svg"}
       ]
     },
@@ -146,13 +147,8 @@
           "collection": [
             {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_.svg"},
             {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Skin lesions", "abstract": "", "img": "images/icons/ic_.svg"}
-          ]
-        },
-        {
-          "text":"",
-          "phaseDescr": "Reproductive losses",
-          "collection": [
+            {"name": "Skin lesions", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Reproductive losses", "abstract": "", "img": "images/icons/ic_.svg"}
           ]
         }
       ]

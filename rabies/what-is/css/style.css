@@ -44,7 +44,7 @@ h2 {
   top: 50%;
   left: 50%;
   z-index: 21;
-  font-size: .8rem;
+  font-size: 1.1rem;
   color: #fff;
   cursor: pointer;
 }
@@ -54,11 +54,11 @@ h2 {
 }
 
 .tg{
-  transform: translate(-18px, 16px);
+  transform: translate(-34px, 16px);
 }
 
 .tv{
-  transform: translate(-102px, -122px);
+  transform: translate(-124px, -122px);
 }
 
 .ic{

@@ -50,8 +50,9 @@
       "backgroundImage": {
         "src": "images/backgrounds/whois.svg"
       },
-      "text": "Marginalised and poor populations with limited access to information in countries where rabies is still prevalent  ",
+      "text": "",
       "collection": [
+        {"name": "Marginalised and poor populations with limited access to information in countries where rabies is still prevalent", "abstract": "", "img": "images/icons/ic_marginalised.svg"},
         {"name": "Children", "abstract": "", "img": "images/icons/ic_children.svg"},
         {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_veterinarias.svg"},
         {"name": "People handling animals that could have rabies", "abstract": "(e.g. bat)", "img": "images/icons/ic_people_handling_animals.svg"},

@@ -6,7 +6,7 @@
   },
   "toxo_oocysts_sporulated": {
     "title": "Oocysts - sporulated",
-    "content": "Sporulated oocysts exhibit high resistance to environmental conditions:<br>In water, they are inactivated in 28 days at –21°C and 54 months at –4°C<br><br>In soil, they can survive up to 18 months in soil",
+    "content": "Sporulated oocysts exhibit high resistance to environmental conditions:<br><ul><li>In water, they are inactivated in 28 days at –21°C and 54 months at –4°C</li><li>In soil, they can survive up to 18 months</li></ul>",
     "imgUrl": "images/toxo_oocysts_sporulated.svg"
   },
   "toxo_cysts": {
@@ -16,7 +16,7 @@
   },
   "toxo_tachyzoites": {
     "title": "Tachyzoites",
-    "content": "Temperature:<br>Tachyzoites survive about one day in body fluids (WOAH technical card)<br><br>pH:<br>Tachyzoites are inactivated at pH<4.0 (WOAH technical card)",
+    "content": "Temperature:<br>Tachyzoites survive about one day in body fluids<br><br>pH:<br>Tachyzoites are inactivated at pH<4.0",
     "imgUrl": "images/toxo_tachyzoites.svg"
   }
 }
