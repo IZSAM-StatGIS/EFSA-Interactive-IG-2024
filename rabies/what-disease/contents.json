@@ -17,7 +17,7 @@
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
             {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weakness.svg"},
-            {"name": "Discomfort", "abstract": "", "img": "images/icons/ic_right_side_pain.svg"},
+            {"name": "Discomfort", "abstract": "", "img": "images/icons/ic_discomfort.svg"},
             {"name": "Headache", "abstract": "", "img": "images/icons/ic_headache.svg"},
             {"name": "Prickling", "abstract": "", "img": "images/icons/ic_prickling.svg"},
             {"name": "Itching at the infection site", "abstract": "", "img": "images/icons/ic_itching.svg"},
@@ -52,7 +52,7 @@
       },
       "text": "",
       "collection": [
-        {"name": "Marginalised and poor populations with limited access to information in countries where rabies is still prevalent", "abstract": "", "img": "images/icons/ic_marginalised.svg"},
+        {"name": "Marginalised and poor populations with limited access to information in countries where rabies is still prevalent", "abstract": "", "img": "images/icons/ic_marginalised_and_poor.svg"},
         {"name": "Children", "abstract": "", "img": "images/icons/ic_children.svg"},
         {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_veterinarias.svg"},
         {"name": "People handling animals that could have rabies", "abstract": "(e.g. bat)", "img": "images/icons/ic_people_handling_animals.svg"},
