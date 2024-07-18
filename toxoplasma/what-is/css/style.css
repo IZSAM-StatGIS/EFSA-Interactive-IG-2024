@@ -44,25 +44,25 @@ h2 {
   top: 50%;
   left: 50%;
   z-index: 21;
-  font-size: .8rem;
+  font-size: 1rem;
   color: #fff;
   cursor: pointer;
 }
 
 .too {
-  transform: translate(-115%, 40%);
+  transform: translate(-102%, 40%);
 }
 
 .tsp{
-  transform: translate(50%, 40%);
+  transform: translate(30%, 40%);
 }
 
 .tcy{
-  transform: translate(55%, 1700%)
+  transform: translate(-95%, 1378%);
 }
 
 .tta{
-  transform: translate(-195%, 1700%)
+  transform: translate(92%, 1378%);
 }
 
 .ic{
@@ -94,11 +94,11 @@ h2 {
 }
 
 .ic-tac{
-  transform: translate(-170%, 40%);
+  transform: translate(100%, 40%);
 }
 
 .ic-cys{
-  transform: translate(40%, 40%);
+  transform: translate(-120%, 40%);
 }
 
 .te:hover + .ic-env, .tg:hover + .ic-gen, .tv:hover + .ic-vir{

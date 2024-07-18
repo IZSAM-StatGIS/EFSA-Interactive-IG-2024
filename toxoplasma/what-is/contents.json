@@ -10,7 +10,7 @@
     "imgUrl": "images/toxo_oocysts_sporulated.svg"
   },
   "toxo_cysts": {
-    "title": "Cysts (Bradyzoites)",
+    "title": "Tissue cysts (bradyzoites)",
     "content": "Temperature:<br> - Tissue cysts remain infectious for weeks in body fluids at room temperature<br> - In meat can be inactivated through cooking (> 66°C) or by freezing (< -12°C)<br><br>Salinity:<br>Tissue cysts do not survive in >6% NaCl solution",
     "imgUrl": "images/toxo_cysts.svg"
   },

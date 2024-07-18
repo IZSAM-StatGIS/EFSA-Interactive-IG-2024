@@ -12,7 +12,7 @@
       "incubationPeriod": "5-23 days in healthy individuals",
       "phases": [
         {
-          "text":"Most people who become infected with <i>Toxoplasma</i> gondii are asymptomatic.",
+          "text":"Most people who become infected with <i>Toxoplasma gondii</i> are asymptomatic.",
           "phaseDescr": "In healthy individuals, when observed, symptoms typically resemble a flu-like syndrome:",
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
@@ -74,7 +74,7 @@
     ],
     "symptoms": {
       "backgroundImage": {
-        "src": "images/icons/ic_animals.svg"
+        "src": "images/icons/ic_background_cat.svg"
       },
       "incubationPeriod": "",
       "text": "",
@@ -84,17 +84,17 @@
           "phaseDescr": "In cat, when observed, general clinical signs include:",
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
-            {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_anorexia_cat.svg"},
+            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_lethargy_cat.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "In kittens:",
           "collection": [
-            {"name": "Ascites", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Dyspnea", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Ascites", "abstract": "", "img": "images/icons/ic_ascites_kitten.svg"},
+            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_lethargy_kittens.svg"},
+            {"name": "Dyspnea", "abstract": "", "img": "images/icons/ic_dyspnea_kitten.svg"}
           ]
         },
         {
@@ -102,53 +102,53 @@
           "phaseDescr": "In young dogs (less than one year) signs might include:",
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
-            {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Vomiting", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
+            {"name": "Vomiting", "abstract": "", "img": "images/icons/ic_vomiting_dog.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "In sheep, goat, and pig, signs might include:",
           "collection": [
-            {"name": "Abortion, foetal mummification, stillbirth, neonatal mortality ", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Abortion, foetal mummification, stillbirth, neonatal mortality ", "abstract": "", "img": "images/icons/ic_abortion_agnello.svg"}
           ]
         }
       ]
     },
     "whois":{
       "backgroundImage": {
-        "src": "images/icons/ic_animals.svg"
+        "src": "images/icons/ic_background_cat.svg"
       },
       "text": "",
       "collection": [
-        {"name": "Young and immunocompromised cats and dogs ", "abstract": "", "img": "images/icons/ic_.svg"},
-        {"name": "Sheep, goat and pig (only female) ", "abstract": "", "img": "images/icons/ic_.svg"}
+        {"name": "Young and immunocompromised cats and dogs ", "abstract": "", "img": "images/icons/ic_cat_dog.svg"},
+        {"name": "Sheep, goat and pig (only female) ", "abstract": "", "img": "images/icons/ic_sheep_goat_pig.svg"}
       ]
     },
     "complications":{
       "backgroundImage": {
-        "src": "images/icons/ic_animals.svg"
+        "src": "images/icons/ic_background_cat.svg"
       },
       "phases": [
         {
           "text":"",
           "phaseDescr": "More severe signs and complications in cat may include:",
           "collection": [
-            {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Cutaneous problems", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Reproductive losses", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_neurologicl_signs_cat.svg"},
+            {"name": "Respiratory distress", "abstract": "", "img": "images/icons/ic_respiratory_distress.svg"},
+            {"name": "Cutaneous problems", "abstract": "", "img": "images/icons/ic_cutaneous_problems.svg"},
+            {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_ocular_signs_cat.svg"},
+            {"name": "Reproductive losses", "abstract": "", "img": "images/icons/ic_reproductive_losses_cat.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "Adult dog might show:",
           "collection": [
-            {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Skin lesions", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Reproductive losses", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Neurological signs", "abstract": "", "img": "images/icons/ic_neurological_and_ocular_signs.svg"},
+            {"name": "Ocular signs", "abstract": "", "img": "images/icons/ic_dog_ocular_signs.svg"},
+            {"name": "Skin lesions", "abstract": "", "img": "images/icons/ic_skin_lesions_dog.svg"},
+            {"name": "Reproductive losses", "abstract": "", "img": "images/icons/ic_reproductive_losses_dog.svg"}
           ]
         }
       ]
