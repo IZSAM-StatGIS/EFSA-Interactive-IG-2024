@@ -74,7 +74,7 @@
     ],
     "symptoms": {
       "backgroundImage": {
-        "src": "images/icons/ic_background_cat.svg"
+        "src": "images/icons/toxoplasma_what_disease_animals.svg"
       },
       "incubationPeriod": "",
       "text": "",
@@ -117,7 +117,7 @@
     },
     "whois":{
       "backgroundImage": {
-        "src": "images/icons/ic_background_cat.svg"
+        "src": "images/icons/toxoplasma_what_disease_animals.svg"
       },
       "text": "",
       "collection": [
@@ -127,7 +127,7 @@
     },
     "complications":{
       "backgroundImage": {
-        "src": "images/icons/ic_background_cat.svg"
+        "src": "images/icons/toxoplasma_what_disease_animals.svg"
       },
       "phases": [
         {

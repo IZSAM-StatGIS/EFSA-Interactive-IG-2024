@@ -2,16 +2,16 @@
   "envelope": {
     "title": "Envelope",
     "content": "Lipid bilayer envelope on the outer part of the virus, which is covered with spike like projections made of glycoproteins (G), which recognise and bind cell receptors. Glycoprotein (G) is essential for lyssavirus pathogenicity and for the induction of the immune response.",
-    "imgUrl": ""
+    "imgUrl": "./images/icons/ic_envelope.svg"
   },
   "virus": {
     "title": "Rabies lyssavirus",
     "content": "Rabies lyssavirus is a neurotropic bullet-shaped virus approximately 100-300 nm in length and 75 nm in diameter. Like all viruses, rabies lyssavirus can only multiply within a host organism: it survives few hours outside body fluids, depending on external conditions of exposure, such as temperature, humidity and sunlight.",
-    "imgUrl": ""
+    "imgUrl": "./images/icons/ic_rabies_lyssavirus.svg"
   },
   "genetic": {
     "title": "Genetic material",
     "content": "Negative-sense, single-stranded RNA. Genetic material strand which encodes for five structural proteins: the nucleoprotein (N), phosphoprotein (P), matrix protein (M), glycoprotein (G) and RNA polymerase protein (L).<br><br>Following the attachment to the susceptible host cells, the genetic material is transferred, transcribed and replicated in the infected cells.",
-    "imgUrl": ""
+    "imgUrl": "./images/icons/ic_genetic_material.svg"
   }
 }
