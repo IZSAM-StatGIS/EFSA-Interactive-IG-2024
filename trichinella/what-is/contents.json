@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<ul><li><i>Trichinella</i> larvae are sensitive to high temperatures and are killed by cooking the meat at a core temperature of 71°C or above, for one minute.</li><li>In meat, <i>Trichinella</i> species can survive at room temperature (25-30°C) from a few days for non-encapsulated species, to several months for encapsulated species, particularly in a humid, decaying environment (such as in meat).</li><li>Certain <i>Trichinella</i> species (<i>T. nativa</i>, <i>T. britovi</i>) exhibit varying degrees of resistance to freezing, depending on host species.</li></ul>",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "The larvae spend their entire life in anaerobic environments, such as muscle tissue, the stomach, and the intestines). Their anaerobic metabolism allows them to survive for extended periods in decaying meat.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<i>Trichinella</i> muscle larvae can withstand extremely low pH values (1.5-2) for short periods (1-3 hours), due to their adaptation to the host’s gastric environment. ",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water activity",
+    "content": "Tissue dehydration kills <i>Trichinella</i> larvae, whereas adequate humidity enhances their survival. ",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "<i>Trichinella</i> species have low tolerance to high saline concentrations. ",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

@@ -1,0 +1,33 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_implementing_biosecurity_measures.svg" ,"title": "Implementing biosecurity measures to avoid direct and indirect contact between domestic and wild animals", "info": ""},
+      {"img": "images/icons/ic_disposing_correctly_of_carcasses_and_offal.svg" ,"title": "Disposing correctly of carcasses and offal", "info": ""},
+      {"img": "images/icons/ic_avoiding_feeding_animals_with_raw_food_waste_of_animal_origin.svg" ,"title": "Avoiding feeding animals with raw food waste of animal origin", "info": ""},
+      {"img": "images/icons/ic_preventing_exposure_of_pigs_to_wildlife_and_rats.svg" ,"title": "Preventing exposure of pigs to wildlife and rats", "info": ""},
+      {"img": "images/icons/ic_storing_feed_to_prevent_access_by_rodents_and_wildlife.svg" ,"title": "Storing feed to prevent access by rodents and wildlife", "info": ""},
+      {"img": "images/icons/ic_promptly_remove_and_dispose_dead_animals.svg" ,"title": "Promptly remove and dispose dead animals", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_conducting_regular_and_thorough_official_controls.svg" ,"title": "Conducting regular and thorough official controls by competent authorities", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Conduct post-slaughter processing to inactivate <i>Trichinella</i>", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_raise_public.svg" ,"title": "Trichinellosis awareness-raising", "info": ""},
+      {"img": "images/icons/ic_farmers_and_hunters_education_activities.svg" ,"title": "Farmers' and hunters' education activities", "info": ""},
+      {"img": "images/icons/ic_avoiding_consumption_uncontrolled_hunted_wild_boar_meat.svg" ,"title": "Avoiding consumption of uncontrolled hunted wild boar meat", "info": ""},
+      {"img": "images/icons/ic_thoroughly_cooking_of_the_meat.svg" ,"title": "Thoroughly cooking of the meat", "info": ""},
+      {"img": "images/icons/ic_5_keys.svg" ,"title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
+    ]
+  }
+}
+
+
+

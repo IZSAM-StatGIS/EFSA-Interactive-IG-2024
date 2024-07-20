@@ -1,0 +1,110 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "Incubation period: for the enteral phase, 1-2 days.",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Enteral phase:",
+          "collection": [
+            {"name": "Diarrhoea ", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_nausea_and_vomiting.svg"},
+            {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Parenteral phase:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Muscle pain", "abstract": "", "img": "images/icons/ic_muscle_pain.svg"},
+            {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"},
+            {"name": "Periorbital or facial oedema", "abstract": "", "img": "images/icons/ic_periorbital_or_facial_oedema.svg"},
+            {"name": "Itchy skin or rash", "abstract": "", "img": "images/icons/ic_Itchy_skin_or_rash.svg"},
+            {"name": "Diarrhoea or constipation", "abstract": "", "img": "images/icons/ic_diarrhoea_p.svg"}
+          ]
+        }
+
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Consumers of raw or undercooked meat or their derivate products, not subjected to veterinary control (domestic consumption).",
+      "collection": []
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "",
+          "collection": [
+            {"name": "Myocarditis", "abstract": "", "img": "images/icons/ic_myocarditis.svg"},
+            {"name": "Encephalopathy", "abstract": "", "img": "images/icons/ic_encephalopathy.svg"},
+            {"name": "Pneumonia", "abstract": "", "img": "images/icons/ic_pneumonia.svg"},
+            {"name": "Thromboembolic disease", "abstract": "", "img": "images/icons/ic_thromboembolic_disease.svg"},
+            {"name": "Intracerebral haemorrhage", "abstract": "", "img": "images/icons/ic_intracerebral_haemorrhage.svg"}
+          ]
+        }
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "incubationPeriod": "",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Under natural conditions, infected animals do not display any clinical signs of infection with Trichinella.",
+          "collection": []
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Domestic pig", "abstract": "", "img": "images/icons/ic_domestic_pig.svg"},
+        {"name": "Wild boar", "abstract": "", "img": "images/icons/ic_wild_boar.svg"},
+        {"name": "Fox", "abstract": "", "img": "images/icons/ic_red_fox.svg"},
+        {"name": "Bear", "abstract": "", "img": "images/icons/ic_bear.svg"},
+        {"name": "Wolf", "abstract": "", "img": "images/icons/ic_wolf.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Since the disease is asymptomatic in animals, no complications are reported.",
+          "collection": []
+        }
+      ]
+    }
+  }
+}
+
