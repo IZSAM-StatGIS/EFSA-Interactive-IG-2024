@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<i>C. burnetii</i> spore-like forms can remain viable for prolonged periods in the environment. <i>C. burnetii</i> demonstrates notable heat resilience, capable of withstanding 60°C for up to 30 minutes. However, the bacterium can be effectively inactivated by high-temperature treatments such as pasteurisation.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "<ul><li><i>C. burnetii</i> strains need a CO2-enriched atmosphere for growth when cultured in cell lines under laboratory conditions (5 to 10%), reflecting its natural intracellular habitat.</li><li>The spore-like form withstands environmental conditions outside of these specialized settings.</li></ul>",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<ul><li><i>C. burnetii</i>, being an obligate intracellular pathogen,  replicates only intracellularly, in an intracellular phagolysosome with a pH of 4 to 5, unable to multiply outside of a host cell.</li><li>In its spore-like survival form, it is hypothesized that the bacterium might survive better at neutral pH levels, although conclusive studies are lacking.</li></ul>",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "<i>C. burnetii</i> has been historically documented to survive from weeks to months in moist environments like water and milk, and several months in dry conditions. This underscores the urgent need for updated research to reassess the bacterium's survival capabilities.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "<ul><li>The bacterium requires intracellular conditions to replicate.</li><li>The effects on salinity on spore-like form are not documented.</li></ul>",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

@@ -1,0 +1,34 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_.svg" ,"title": "Wear personal protective equipment (PPE), especially mask", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Vaccinate newborns", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Ensure biosecurity measures during parturition", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Surveillance of abortion events", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Ensure biosecurity measures during manure handling", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Ensure effective primary cleaning of livestock facilities by removing as much organic matter as possible", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Monitoring introductions and movements of animals", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Proper management of litter and potentially contaminated materials", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Ensure effective primary cleaning of livestock facilities by removing as much organic matter as possible", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Continuous biosecurity training for farm workers", "info": ""}
+    ]
+  },
+  "sites": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_.svg" ,"title": "Implement appropriate cleaning/disinfection protocols", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Stop hosting activities and monitor the environment contamination", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_.svg" ,"title": "Use of personal protective equipment (PPE), especially respirator masks, during high-risk activities for operators of slaughterhouses, dairy and wool industry, tanneries.", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Organising continuous biosecurity training for workers a risk ", "info": ""}
+    ]
+  }
+}
+
+
+

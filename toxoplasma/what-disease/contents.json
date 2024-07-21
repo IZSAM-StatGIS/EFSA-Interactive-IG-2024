@@ -74,7 +74,7 @@
     ],
     "symptoms": {
       "backgroundImage": {
-        "src": "images/icons/toxoplasma_what_disease_animals.svg"
+        "src": "images/icons/ic_background_cat.svg"
       },
       "incubationPeriod": "",
       "text": "",
@@ -94,7 +94,7 @@
           "collection": [
             {"name": "Ascites", "abstract": "", "img": "images/icons/ic_ascites_kitten.svg"},
             {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_lethargy_kittens.svg"},
-            {"name": "Dyspnea", "abstract": "", "img": "images/icons/ic_dyspnea_kitten.svg"}
+            {"name": "Dyspnoea", "abstract": "", "img": "images/icons/ic_dyspnea_kitten.svg"}
           ]
         },
         {
@@ -117,7 +117,7 @@
     },
     "whois":{
       "backgroundImage": {
-        "src": "images/icons/toxoplasma_what_disease_animals.svg"
+        "src": "images/icons/ic_background_cat.svg"
       },
       "text": "",
       "collection": [
@@ -127,7 +127,7 @@
     },
     "complications":{
       "backgroundImage": {
-        "src": "images/icons/toxoplasma_what_disease_animals.svg"
+        "src": "images/icons/ic_background_cat.svg"
       },
       "phases": [
         {

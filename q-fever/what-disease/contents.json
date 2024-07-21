@@ -1,0 +1,157 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "the incubation period ranges from 2 to 6 weeks.",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "General clinical signs of acute Q fever include Flu-like symptoms such as:",
+          "collection": [
+            {"name": "High fever", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Severe headache ", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Muscle pain and discomfort", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Sore throat", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Chills and sweats ", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Non-productive cough ", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Nausea ", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Pregnant woman, especially during the first trimester, may develop:",
+          "collection": [
+            {"name": "Premature delivery", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Low birth weight foetus", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Abortions", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Stillbirths", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "",
+          "collection": [
+            {"name": "Pregnant women", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Urban individuals with no prior exposure", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Immunocompromised people", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Patients with valvulopathies, vascular prostheses or vascular aneurysms", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "People over the age of 50, male", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Increased risk for exposure:",
+          "collection": [
+            {"name": "Farm workers", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Slaughterhouse workers", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Workers in meat-packing plants", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Wool workers", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Laboratory personnel", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Acute Q fever:",
+          "collection": [
+            {"name": "Hepatitis", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Pneumonia ", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Persistent focalized infection:",
+          "collection": [
+            {"name": "Endocarditis", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Vascular infections", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Other clinical manifestations of persistent focal infections:",
+          "collection": [
+            {"name": "Chronic fatigue syndrome", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Neurological problems", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Osteo-articular infection", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Pulmonary pseudotumor", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "incubationPeriod": "",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Clinical signs are limited to pregnant goat, sheep and cattle:",
+          "collection": [
+            {"name": "Late-term abortion", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Stillbirth", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Delivery of small or weak offspring", "abstract": "", "img": "images/icons/ic_red_fox.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Primarily carriers without showing symptoms:",
+          "collection": [
+            {"name": "Goat ", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Sheep ", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Cattle ", "abstract": "", "img": "images/icons/ic_red_fox.svg"}
+          ]
+        }
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "No complications are reported in animals",
+          "collection": []
+        }
+      ]
+    }
+  }
+}
+
