@@ -97,7 +97,7 @@ h2 {
 }
 
 .t2{
-  transform: translate(-81px, -11px);
+  transform: translate(-53px, -63px);
 }
 
 .t3{
@@ -105,7 +105,7 @@ h2 {
 }
 
 .t4{
-  transform: translate(-53px, -63px);
+  transform: translate(-81px, -11px);
 }
 
 .t5{
@@ -129,7 +129,7 @@ h2 {
 
 .ic-hum{
   width: 27px;
-  transform: translate(-116px, -18px);
+  transform: translate(-92px, -80px);
 }
 
 .ic-ph{
@@ -139,7 +139,7 @@ h2 {
 
 .ic-sal{
   width: 36px;
-  transform: translate(-92px, -80px);
+  transform: translate(-116px, -18px);
 }
 
 .ic-oxi{
@@ -148,7 +148,7 @@ h2 {
 }
 
 
-.ic-sal:hover + .c1, .ic-hum:hover + .c2, .ic-oxi:hover + .c3, .ic-ph:hover + .c4, .ic-therm:hover + .c5{
+.ic-hum:hover + .c1, .ic-oxi:hover + .c3, .ic-ph:hover + .c4, .ic-therm:hover + .c5{
   filter: saturate(0.75) brightness(1.2);
 }
 
