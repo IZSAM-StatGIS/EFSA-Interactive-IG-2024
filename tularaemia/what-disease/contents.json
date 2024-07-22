@@ -1,0 +1,146 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Initial symptoms of tularaemia may include:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Chills", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Headaches", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Body aches", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Malaise", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "In humans, six distinct clinical forms of tularaemia exist:",
+          "collection": [
+            {"name": "Ulceroglandular", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Glandular", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Oculoglandular", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Oropharyngeal", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Respiratory", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Typhoidal", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Tularaemia is an occupational hazard for the following categories:",
+          "collection": [
+            {"name": "Hunter", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Slaughterhouse worker", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Agricultural worker", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Fur/wool handler", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Farmer", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Veterinarian", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Landscaper", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Laboratory technician", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Depending on the clinical form, possible complications are:",
+          "collection": [
+            {"name": "Ulceroglandular form", "abstract": "pneumonia, septicemia/sepsis, septicemic meningitis", "img": "images/icons/ic_.svg"},
+            {"name": "Oropharyngeal", "abstract": "shock", "img": "images/icons/ic_.svg"},
+            {"name": "Systemic", "abstract": "sepsis, meningitis, encephalitis, endocarditis, and osteomyelitis", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "incubationPeriod": "",
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "Clinical signs are limited to pregnant goat, sheep and cattle:",
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Lymph node swelling", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "",
+          "collection": [
+            {"name": "Hare", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Vole", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Field mice", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Squirrel", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Rabbit", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "More rarely:",
+          "collection": [
+            {"name": "Dog", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Cat", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Sheep", "abstract": "", "img": "images/icons/ic_.svg"},
+            {"name": "Non-human primates", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/icons/ic_background_pig.svg"
+      },
+      "phases": [
+        {
+          "text":"",
+          "phaseDescr": "",
+          "collection": [
+            {"name": "Septicaemia", "abstract": "", "img": "images/icons/ic_.svg"}
+          ]
+        }
+      ]
+    }
+  }
+}
+
