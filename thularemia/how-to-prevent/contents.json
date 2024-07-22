@@ -1,0 +1,28 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_.svg" ,"title": "Wearing personal protective equipment (PPE)", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Avoiding bites from arthropods", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Avoid handling wild animals", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Performing surveillance activities", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "\"Wild-animals-intra\" health certificate for live hare movements", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Increasing awareness among at risk populations ", "info": ""}
+    ]
+  },
+  "consumer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_.svg" ,"title": "Avoiding the consumption of raw meat", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Protecting food from pest contaminations", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Washing hand before eating or food preparing", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Washing vegetables and fruits before consuming", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Washing hands and utensils after handling raw meat", "info": ""},
+      {"img": "images/icons/ic_.svg" ,"title": "Drinking and using drinkable water", "info": ""},
+      {"img": "images/icons/ic_5_keys.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
+    ]
+  }
+}
+
+
+
