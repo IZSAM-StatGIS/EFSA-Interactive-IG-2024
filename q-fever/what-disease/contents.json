@@ -13,25 +13,25 @@
       "phases": [
         {
           "text":"",
-          "phaseDescr": "General clinical signs of acute Q fever include Flu-like symptoms such as:",
+          "phaseDescr": "General clinical signs of acute Q fever include flu-like symptoms such as:",
           "collection": [
-            {"name": "High fever", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Severe headache ", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Muscle pain and discomfort", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Sore throat", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Chills and sweats ", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Non-productive cough ", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Nausea ", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "High fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Severe headache ", "abstract": "", "img": "images/icons/ic_headache.svg"},
+            {"name": "Muscle pain and discomfort", "abstract": "", "img": "images/icons/ic_muscle_pain_and_discomfort.svg"},
+            {"name": "Sore throat", "abstract": "", "img": "images/icons/ic_sore_throat.svg"},
+            {"name": "Chills and sweats ", "abstract": "", "img": "images/icons/ic_chills_and_sweats.svg"},
+            {"name": "Non-productive cough ", "abstract": "", "img": "images/icons/ic_nausea.svg"},
+            {"name": "Nausea ", "abstract": "", "img": "images/icons/ic_nausea.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "Pregnant woman, especially during the first trimester, may develop:",
           "collection": [
-            {"name": "Premature delivery", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Low birth weight foetus", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Abortions", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Stillbirths", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Premature delivery", "abstract": "", "img": "images/icons/ic_premature.svg"},
+            {"name": "Low birth weight foetus", "abstract": "", "img": "images/icons/ic_low_birth_weight_foetus.svg"},
+            {"name": "Abortions", "abstract": "", "img": "images/icons/ic_abortion.svg"},
+            {"name": "Stillbirths", "abstract": "", "img": "images/icons/ic_stillbirths.svg"}
           ]
         }
 
@@ -46,23 +46,23 @@
           "text":"",
           "phaseDescr": "",
           "collection": [
-            {"name": "Pregnant women", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Urban individuals with no prior exposure", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Immunocompromised people", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Patients with valvulopathies, vascular prostheses or vascular aneurysms", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "People over the age of 50, male", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Pregnant women", "abstract": "", "img": "images/icons/ic_pregnant.svg"},
+            {"name": "Urban individuals with no prior exposure", "abstract": "", "img": "images/icons/ic_urban_individuals_no_prior_exposure.svg"},
+            {"name": "Immunocompromised people", "abstract": "", "img": "images/icons/ic_immunecomp.svg"},
+            {"name": "Patients with valvulopathies, vascular prostheses or vascular aneurysms", "abstract": "", "img": "images/icons/ic_atients_valvulopathies.svg"},
+            {"name": "People over the age of 50, male", "abstract": "", "img": "images/icons/ic_people_over_50_male.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "Increased risk for exposure:",
           "collection": [
-            {"name": "Farm workers", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Slaughterhouse workers", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Workers in meat-packing plants", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Wool workers", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Laboratory personnel", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Farm workers", "abstract": "", "img": "images/icons/ic_farmer.svg"},
+            {"name": "Slaughterhouse workers", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
+            {"name": "Workers in meat-packing plants", "abstract": "", "img": "images/icons/ic_workers_packing plants.svg"},
+            {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_veterinarias.svg"},
+            {"name": "Wool workers", "abstract": "", "img": "images/icons/ic_wool_workers.svg"},
+            {"name": "Laboratory personnel", "abstract": "", "img": "images/icons/ic_laboratory_personnel.svg"}
           ]
         }
       ]
@@ -76,26 +76,26 @@
           "text":"",
           "phaseDescr": "Acute Q fever:",
           "collection": [
-            {"name": "Hepatitis", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Pneumonia ", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Hepatitis", "abstract": "", "img": "images/icons/Ic_ephatic_failure.svg"},
+            {"name": "Pneumonia ", "abstract": "", "img": "images/icons/ic_pneumonia.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "Persistent focalized infection:",
           "collection": [
-            {"name": "Endocarditis", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Vascular infections", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Endocarditis", "abstract": "", "img": "images/icons/ic_endocarditis.svg"},
+            {"name": "Vascular infections", "abstract": "", "img": "images/icons/ic_vascular_infection.svg"}
           ]
         },
         {
           "text":"",
           "phaseDescr": "Other clinical manifestations of persistent focal infections:",
           "collection": [
-            {"name": "Chronic fatigue syndrome", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Neurological problems", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Osteo-articular infection", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Pulmonary pseudotumor", "abstract": "", "img": "images/icons/ic_.svg"}
+            {"name": "Chronic fatigue syndrome", "abstract": "", "img": "images/icons/ic_chronic_fatigue_syndrome.svg"},
+            {"name": "Neurological problems", "abstract": "", "img": "images/icons/ic_neurological_problems.svg"},
+            {"name": "Osteo-articular infection", "abstract": "", "img": "images/icons/ic_osteo_articular_infection.svg"},
+            {"name": "Pulmonary pseudotumor", "abstract": "", "img": "images/icons/ic_pulmonary_pseudotumor.svg"}
           ]
         }
       ]
@@ -109,7 +109,7 @@
     ],
     "symptoms": {
       "backgroundImage": {
-        "src": "images/icons/ic_background_pig.svg"
+        "src": "images/icons/ic_background_sheep.svg"
       },
       "incubationPeriod": "",
       "phases": [
@@ -117,32 +117,32 @@
           "text":"",
           "phaseDescr": "Clinical signs are limited to pregnant goat, sheep and cattle:",
           "collection": [
-            {"name": "Late-term abortion", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Stillbirth", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Delivery of small or weak offspring", "abstract": "", "img": "images/icons/ic_red_fox.svg"}
+            {"name": "Late-term abortion", "abstract": "", "img": "images/icons/ic_late_term_abortion.svg"},
+            {"name": "Stillbirth", "abstract": "", "img": "images/icons/ic_stillbirth.svg"},
+            {"name": "Delivery of small or weak offspring", "abstract": "", "img": "images/icons/ic_delivery_offspring.svg"}
           ]
         }
       ]
     },
     "whois":{
       "backgroundImage": {
-        "src": "images/icons/ic_background_pig.svg"
+        "src": "images/icons/ic_background_sheep.svg"
       },
       "phases": [
         {
           "text":"",
           "phaseDescr": "Primarily carriers without showing symptoms:",
           "collection": [
-            {"name": "Goat ", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Sheep ", "abstract": "", "img": "images/icons/ic_.svg"},
-            {"name": "Cattle ", "abstract": "", "img": "images/icons/ic_red_fox.svg"}
+            {"name": "Goat ", "abstract": "", "img": "images/icons/ic_goat.svg"},
+            {"name": "Sheep ", "abstract": "", "img": "images/icons/ic_sheep.svg"},
+            {"name": "Cattle ", "abstract": "", "img": "images/icons/ic_cow.svg"}
           ]
         }
       ]
     },
     "complications":{
       "backgroundImage": {
-        "src": "images/icons/ic_background_pig.svg"
+        "src": "images/icons/ic_background_sheep.svg"
       },
       "phases": [
         {
