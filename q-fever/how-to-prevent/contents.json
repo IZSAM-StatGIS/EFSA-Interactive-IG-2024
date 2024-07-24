@@ -2,30 +2,24 @@
   "farm": {
     "text": "Especially for poultry",
     "collection": [
-      {"img": "images/icons/ic_.svg" ,"title": "Wear personal protective equipment (PPE), especially mask", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Vaccinate newborns", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Ensure biosecurity measures during parturition", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Surveillance of abortion events", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Ensure biosecurity measures during manure handling", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Ensure effective primary cleaning of livestock facilities by removing as much organic matter as possible", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Monitoring introductions and movements of animals", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Proper management of litter and potentially contaminated materials", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Ensure effective primary cleaning of livestock facilities by removing as much organic matter as possible", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Continuous biosecurity training for farm workers", "info": ""}
-    ]
-  },
-  "sites": {
-    "text": "",
-    "collection": [
-      {"img": "images/icons/ic_.svg" ,"title": "Implement appropriate cleaning/disinfection protocols", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Stop hosting activities and monitor the environment contamination", "info": ""}
+      {"img": "images/icons/ic_wearing_personal_protective_equipment.svg" ,"title": "Wearing personal protective equipment (PPE)", "info": ""},
+      {"img": "images/icons/ic_implementing_vaccination_protocols.svg" ,"title": "Implementing vaccination protocols", "info": ""},
+      {"img": "images/icons/ic_ensuring_biosecurity_measures_during_manure_handling.svg" ,"title": "Ensuring biosecurity measures during parturition", "info": ""},
+      {"img": "images/icons/ic_performing_strict_control_management.svg" ,"title": "Performing strict control and management of introduced animals", "info": ""},
+      {"img": "images/icons/ic_managing_properly_litter.svg" ,"title": "Managing properly litter and potentially contaminated materials ", "info": ""},
+      {"img": "images/icons/ic_ensuring_biosecurity_measures_during_parturition.svg" ,"title": "Ensuring biosecurity measures during manure handling", "info": ""},
+      {"img": "images/icons/ic_ensuring_effective_primary_cleaning.svg" ,"title": "Ensuring effective primary cleaning of livestock facilities", "info": ""},
+      {"img": "images/icons/ic_organising_continuous_biosecurity.svg" ,"title": "Organising continuous biosecurity training for farm managers and farm workers ", "info": ""},
+      {"img": "images/icons/ic_disinfection_protocols_farm.svg" ,"title": "Implementing appropriate cleaning/disinfection protocols at farm sites open to the public ", "info": ""},
+      {"img": "images/icons/ic_stop_hosting_activities.svg" ,"title": "Stop hosting activities in case of infected farms open to the public", "info": ""},
+      {"img": "images/icons/ic_performing_epidemiological_investigations.svg" ,"title": "Performing epidemiological investigations of abortion events", "info": ""}
     ]
   },
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_.svg" ,"title": "Use of personal protective equipment (PPE), especially respirator masks, during high-risk activities for operators of slaughterhouses, dairy and wool industry, tanneries.", "info": ""},
-      {"img": "images/icons/ic_.svg" ,"title": "Organising continuous biosecurity training for workers a risk ", "info": ""}
+      {"img": "images/icons/ic_using_personal.svg" ,"title": "Using personal protective equipment (PPE), especially respirator masks, during high-risk activities", "info": ""},
+      {"img": "images/icons/ic_organising_continuous_biosecurity.svg" ,"title": "Organising continuous biosecurity training for workers a risk", "info": ""}
     ]
   }
 }
