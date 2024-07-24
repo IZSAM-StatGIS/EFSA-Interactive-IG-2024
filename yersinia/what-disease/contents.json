@@ -10,7 +10,7 @@
         "src": "images/backgrounds/symptoms.svg"
       },
       "incubationPeriod": "",
-      "text": "Yersiniosis caused by <i>Y. pseudotuberculosis</i> tends to be more severe than that caused by <i>Y. enterocolitica</i>. Symptoms may include:",
+      "text": "Yersiniosis caused by <i>Y. pseudotuberculosis</i> tends to be more severe than that caused by <i>Y. enterocolitica</i>.<br><br>Symptoms may include:",
       "collection": [
         {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
         {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
@@ -56,7 +56,7 @@
         "src": "images/icons/ic_animals.svg"
       },
       "incubationPeriod": "",
-      "text": "<i>Yersinia enterocolitica</i> signs might resemble gastroenteritis.<br><i>Yersinia pseudotuberculosis</i> is mainly asymptomatic. Stress-induced signs resemble mild gastroenteritis:",
+      "text": "Yersiniosis is mainly asymptomatic in animal species and in certain conditions (e.g. stress) resembles mild gastroenteritis.<br><br>In this case symptoms may include:",
       "collection": [
         {"name": "Reduced well-being", "abstract": "", "img": "images/icons/ic_env_stress.svg"},
         {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},

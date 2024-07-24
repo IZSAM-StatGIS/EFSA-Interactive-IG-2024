@@ -1,7 +1,7 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "<ul><li>Optimal growth at 37 °C</li><li>Susceptible to moist heat: physical inactivation at 121 °C for 15 min and dry heat: 160-170 °C for at least 1 hour.</li><li>Tolerant of cold temperatures, <i>Francisella tularensis</i> can survive for weeks at low temperatures across various substrates, including water, soil, forage, grain dust, and decaying organic matter such as carcasses and hides</li><li>Infected rabbit meat stored frozen at -15° C has remained infective longer than 3 years.</li></ul>",
+    "content": "<ul><li>Optimal growth at 37 °C.</li><li>Susceptible to moist heat: physical inactivation at 121 °C for 15 min and dry heat: 160-170 °C for at least 1 hour.</li><li>Tolerant of cold temperatures, <i>Francisella tularensis</i> can survive for weeks at low temperatures across various substrates, including water, soil, forage, grain dust, and decaying organic matter such as carcasses and hides.</li><li>Infected rabbit meat stored frozen at -15° C has remained infective for longer than 3 years.</li></ul>",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {

@@ -2,23 +2,23 @@
   "farm": {
     "text": "Especially for poultry",
     "collection": [
-      {"img": "images/icons/ic_using_personal_protective_equipment.svg" ,"title": "Using personal protective equipment (PPE)", "info": ""},
+      {"img": "images/icons/ic_using_personal_protective_equipment.svg" ,"title": "Using personal protective equipment (PPE)<br><br><br>", "info": ""},
       {"img": "images/icons/ic_preventing_antrophodes_bites.svg" ,"title": "Preventing arthropods bites", "info": ""},
       {"img": "images/icons/ic_avoid_handling_wild_animals.svg" ,"title": "Avoiding handling wild animals", "info": ""},
-      {"img": "images/icons/ic_performing_surveillance.svg" ,"title": "Performing surveillance activities", "info": ""},
-      {"img": "images/icons/ic_wild_animals_intra.svg" ,"title": "\"Wild-animals-intra\" health certificate for live hare movements", "info": ""},
-      {"img": "images/icons/ic_raising_increasing_awareness.svg" ,"title": "Raising awareness among at risk populations ", "info": ""}
+      {"img": "images/icons/ic_performing_surveillance.svg" ,"title": "Performing surveillance activities<br><br><br><br><br>", "info": ""},
+      {"img": "images/icons/ic_wild_animals_intra.svg" ,"title": "\"Wild-animals-intra\" health certificate for live hare movements<br><br><br><br>", "info": ""},
+      {"img": "images/icons/ic_raising_increasing_awareness.svg" ,"title": "Raising awareness among at risk populations<br><br><br>", "info": ""}
     ]
   },
   "consumer": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_avoiding_the_cosumption_raw_meat.svg" ,"title": "Avoiding the consumption of raw meat", "info": ""},
+      {"img": "images/icons/ic_avoiding_the_cosumption_raw_meat.svg" ,"title": "Avoiding the consumption of raw meat<br><br><br>", "info": ""},
       {"img": "images/icons/ic_protecting_food.svg" ,"title": "Protecting food from pest contaminations", "info": ""},
-      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hand before eating or food preparing", "info": ""},
-      {"img": "images/icons/ic_rasing_fresh_washing_vegetables.svg" ,"title": "Rinsing fresh vegetables and fruits before consuming", "info": ""},
-      {"img": "images/icons/ic_cleaning_hands_and_utensils.svg" ,"title": "Cleaning hands and utensils after handling raw meat", "info": ""},
-      {"img": "images/icons/ic_drinking_water.svg" ,"title": "Drinking and using drinkable water", "info": ""},
+      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands before eating or food preparing", "info": ""},
+      {"img": "images/icons/ic_rasing_fresh_washing_vegetables.svg" ,"title": "Rinsing fresh vegetables and fruits before consuming<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_cleaning_hands_and_utensils.svg" ,"title": "Cleaning hands and utensils after handling raw meat<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_drinking_water.svg" ,"title": "Drinking and using drinkable water<br><br><br>", "info": ""},
       {"img": "images/icons/ic_5_keys.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]
   }

@@ -9,8 +9,8 @@
       "backgroundImage": {
         "src": "images/backgrounds/symptoms.svg"
       },
-      "incubationPeriod": "Depending on location, size, number and stage of cysts: ",
-      "text": "",
+      "incubationPeriod": "The incubation can last months or year (even lifelong).",
+      "text": "Depending on location, size, number and stage of cysts:",
       "collection": [
         {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
         {"name": "Nausea and vomiting", "abstract": "", "img": "images/icons/ic_vomiting.svg"},

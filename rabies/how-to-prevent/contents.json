@@ -3,18 +3,18 @@
     "text": "",
     "collection": [
       {"img": "images/icons/ic_protect_human.svg" ,"title": "Protect humans by ensuring valid animal vaccinations and control measures ", "info": ""},
-      {"img": "images/icons/ic_pre_exposure.svg" ,"title": "Pre-exposure prophylaxis (PrEP) of people at risk (laboratory personnel who works with live rabies virus, people working directly with animals that could have rabies, veterinarians, people living in or travelling to high-risk areas)", "info": ""},
-      {"img": "images/icons/ic_implementing_post_exposure_prophylaxis.svg" ,"title": "Implementing post-exposure prophylaxis (PEP) in all cases of suspected rabies exposure, following the WHO recommendations", "info": "<a href='https://www.who.int/teams/control-of-neglected-tropical-diseases/rabies/pep-recommendations'>Click here for more information...</a>"},
-      {"img": "images/icons/ic_raise_public_awareness.svg" ,"title": "Raise public awareness with targeted information campaigns ", "info": ""},
+      {"img": "images/icons/ic_pre_exposure.svg" ,"title": "Pre-exposure prophylaxis (PrEP) of people at risk (laboratory personnel who works with live rabies virus, people working directly with animals that could have rabies, veterinarians, people living in or travelling to high-risk areas)<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_implementing_post_exposure_prophylaxis.svg" ,"title": "Implementing post-exposure prophylaxis (PEP) in all cases of suspected rabies exposure, following the WHO recommendations", "info": "<a href='https://www.who.int/teams/control-of-neglected-tropical-diseases/rabies/pep-recommendations'>Click here for more information...</a><br><br><br>"},
+      {"img": "images/icons/ic_raise_public_awareness.svg" ,"title": "Raise public awareness with targeted information campaigns<br><br><br>", "info": ""},
       {"img": "images/icons/ic_avoid_contact_with_wildlife.svg" ,"title": "Avoid contact with wildlife and domestic animals of unknown health status<br><br><br>", "info": ""}
     ]
   },
   "animals": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_ensuring_vaccination_of_dogs.svg" ,"title": "Ensuring vaccination of dogs and eventually cats, contingent on location and risk level  ", "info": ""},
-      {"img": "images/icons/ic_conducting_oral_rabies.svg" ,"title": "Conducting oral rabies vaccination campaigns in wildlife in countries in affected regions ", "info": ""},
-      {"img": "images/icons/ic_ensuring_stray_dog.svg" ,"title": "Ensuring stray dog population control methods as suggested by WOAH Terrestrial Animal Health Code", "info": ""}
+      {"img": "images/icons/ic_ensuring_vaccination_of_dogs.svg" ,"title": "Ensuring vaccination of dogs and eventually cats, contingent on location and risk level<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_conducting_oral_rabies.svg" ,"title": "Conducting oral rabies vaccination campaigns in wildlife in countries in affected regions<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_ensuring_stray_dog.svg" ,"title": "Ensuring stray dog population control methods as suggested by WOAH Terrestrial Animal Health Code<br><br><br>", "info": ""}
     ]
   }
 }

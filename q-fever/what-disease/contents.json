@@ -20,7 +20,7 @@
             {"name": "Muscle pain and discomfort", "abstract": "", "img": "images/icons/ic_muscle_pain_and_discomfort.svg"},
             {"name": "Sore throat", "abstract": "", "img": "images/icons/ic_sore_throat.svg"},
             {"name": "Chills and sweats ", "abstract": "", "img": "images/icons/ic_chills_and_sweats.svg"},
-            {"name": "Non-productive cough ", "abstract": "", "img": "images/icons/ic_nausea.svg"},
+            {"name": "Non-productive cough ", "abstract": "", "img": "images/icons/ic_non_productive_cough.svg"},
             {"name": "Nausea ", "abstract": "", "img": "images/icons/ic_nausea.svg"}
           ]
         },

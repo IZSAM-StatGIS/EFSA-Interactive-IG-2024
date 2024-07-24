@@ -32,7 +32,7 @@
       {"img": "images/icons/ic_salad.svg", "title": "Avoiding cross-contamination between raw and ready-to-eat products", "info": ""},
       {"img": "images/icons/ic_slaugh.svg", "title": "Cook meat thoroughly according to the indications reported on the label", "info": ""},
       {"img": "images/icons/ic_igene.svg", "title": "Washing, peeling or cooking fruits and vegetables", "info": ""},
-      {"img": "images/icons/ic_wash_hands.svg", "title": "Carefully washing hands before preparing, serving or eating food", "info": ""},
+      {"img": "images/icons/ic_wash_hands.svg", "title": "Carefully washing hands before preparing, serving or eating food<br><br><br>", "info": ""},
       {"img": "images/icons/ic_key.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]
   }

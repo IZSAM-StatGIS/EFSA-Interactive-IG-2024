@@ -9,8 +9,8 @@
       "backgroundImage": {
         "src": "images/backgrounds/symptoms.svg"
       },
-      "incubationPeriod": "",
-      "text": "",
+      "incubationPeriod": "Lesions may develop until 5-15 years after the infection.",
+      "text": "Alveolar echinococcosis typically results in vesicles that are usually located in the liver.<br>Symptoms might include:",
       "collection": [
         {"name": "Abdominal pain", "abstract": "", "img": "images/icons/ic_abdominal_pain.svg"},
         {"name": "Hepatic failure", "abstract": "", "img": "images/icons/Ic_ephatic_failure.svg"},

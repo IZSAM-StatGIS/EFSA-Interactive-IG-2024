@@ -11,7 +11,7 @@
   },
   "ph": {
     "title": "pH",
-    "content": "<ul><li><i>C. burnetii</i> being an obligate intracellular pathogen, replicates only intracellularly, with a pH betweenof 4 to 5.</li><li>In its spore-like form, it  may survive better at neutral pH, though this is not conclusively proven.</li></ul>",
+    "content": "<ul><li><i>C. burnetii</i>, being an obligate intracellular pathogen, replicates only intracellularly, with a pH betweenof 4 to 5.</li><li>In its spore-like form, it  may survive better at neutral pH, though this is not conclusively proven.</li></ul>",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {

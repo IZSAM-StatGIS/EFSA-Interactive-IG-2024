@@ -1,7 +1,7 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "Both <i>Yersinia enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> are psycrotrophic: they can survive at temperatures below +4°C, making refrigerated food susceptible to contamination.<br><i>Y. enterocolitica</i> grows at 0-45°C, optimum 25-32°C.<br><i>Y. pseudotuberculosis</i> grows at 4-43°C, optimum 25-28°C.<br>Both are motile by peritrichous flagella at temperatures between 20°C and 30°C (optimum 25°C) and immobile at 37°C.",
+    "content": "Both <i>Yersinia enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> are psycrotrophic: they can survive at temperatures below +4°C, making refrigerated food susceptible to contamination.<br><br><i>Y. enterocolitica</i> grows at 0-45°C, optimum 25-32°C.<br><i>Y. pseudotuberculosis</i> grows at 0-43°C, optimum 25-28°C.<br><br>Both are motile by peritrichous flagella at temperatures between 20°C and 30°C (optimum 25°C) and immobile at 37°C.",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
@@ -16,7 +16,7 @@
   },
   "humidity": {
     "title": "Water",
-    "content": "<i>Yersinia enterocolitica</i>: minimum water activity (aw) at which growth occurs is 0.96",
+    "content": "<i>Yersinia enterocolitica</i>: minimum water activity (aw) at which growth occurs is 0.96<br><br><i>Yersinia pseudotuberculosis</i>: information not available",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {

@@ -6,7 +6,7 @@
       {"img": "images/icons/ic_carcassa.svg" ,"title": "Preventing dogs from accessing carcasses of dead animals (for <i>E. granulosus</i>)", "info": ""},
       {"img": "images/icons/ic_sheep.svg" ,"title": "Culling aged sheep (for <i>E. granulosus s.l.</i>)", "info": ""},
       {"img": "images/icons/ic_check.svg" ,"title": "Vaccinating sheep with recombinant vaccine (for <i>E. granulosus s.l.</i>)", "info": ""},
-      {"img": "images/icons/ic_fox_pills.svg" ,"title": "Baiting foxes with anthelmintic drug (for <i>E. multilocularis</i>)", "info": ""},
+      {"img": "images/icons/ic_fox_pills.svg" ,"title": "Baiting foxes with anthelmintic drug (for <i>E. multilocularis</i>)<br><br><br>", "info": ""},
       {"img": "images/icons/ic_wash_hands.svg" ,"title": "Washing hands (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)", "info": ""},
       {"img": "images/icons/ic_gloves_more.svg" ,"title": "Using personal protective equipment (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)", "info": ""}
     ]
@@ -15,7 +15,7 @@
     "text": "",
     "collection": [
       {"img": "images/icons/ic_carcassa.svg" ,"title": "Conducting visual inspections of carcasses by the competent authority (for <i>E. granulosus s.l.</i>)", "info": ""},
-      {"img": "images/icons/ic_albero_carcassa.svg", "title": "Avoiding home slaughtering (for <i>E. granulosus s.l.</i>)", "info": ""},
+      {"img": "images/icons/ic_albero_carcassa.svg", "title": "Avoiding home slaughtering (for <i>E. granulosus s.l.</i>)<br><br><br>", "info": ""},
       {"img": "images/icons/ic_farm_blue.svg", "title": "Tracing back infections at farms (for <i>E. granulosus s.l.</i>)", "info": ""},
       {"img": "images/icons/ic_liver.svg", "title": "Destroying infected organs (for <i>E. granulosus s.l.</i>)", "info": ""}
     ]
@@ -23,9 +23,9 @@
   "customer": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_priv_water.svg", "title": "Avoiding the ingestion of raw food or water from potentially contaminated areas (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)","info": ""},
+      {"img": "images/icons/ic_priv_water.svg", "title": "Avoiding the ingestion of raw food or water from potentially contaminated areas (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)<br><br><br>","info": ""},
       {"img": "images/icons/ic_igene.svg", "title": "Washing raw food thoroughly before eating (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)", "info": ""},
-      {"img": "images/icons/ic_wash_hands.svg", "title": "Washing hands thoroughly (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)", "info": ""},
+      {"img": "images/icons/ic_wash_hands.svg", "title": "Washing hands thoroughly (for both <i>E. granulosus s.l.</i> and <i>multilocularis</i>)<br><br><br>", "info": ""},
       {"img": "images/icons/ic_key.svg", "title": "Implementing the “Five Keys to Safer Food”, which were developed by WHO to educate consumers and food handlers on safe food handling behaviour", "info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]
   }

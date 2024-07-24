@@ -2,11 +2,11 @@
   "farm": {
     "text": "Especially for poultry",
     "collection": [
-      {"img": "images/icons/ic_irrigating_municipal_water.svg" ,"title": "Using municipal water for irrigating fresh produce and for livestock", "info": ""},
+      {"img": "images/icons/ic_irrigating_municipal_water.svg" ,"title": "Using municipal water for irrigating fresh produce and for livestock<br><br><br>", "info": ""},
       {"img": "images/icons/ic_keeping_cat_away.svg" ,"title": "Keeping cats away from farms, feed, production/storage areas", "info": ""},
       {"img": "images/icons/ic_processing_waste_water.svg" ,"title": "Processing wastewater used for irrigation with tertiary level treatment", "info": ""},
       {"img": "images/icons/ic_wearing_personnel_protection.svg" ,"title": "Wearing personal protective equipment when handling potentially contaminated materials", "info": ""},
-      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after handling potentially contaminated items", "info": ""},
+      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after handling potentially contaminated items<br><br><br>", "info": ""},
       {"img": "images/icons/ic_vaccinating.svg" ,"title": "Vaccinating sheep and pigs", "info": ""},
       {"img": "images/icons/ic_rodent_control.svg" ,"title": "Applying rigorous measures for rodent control", "info": ""}
     ]
@@ -14,44 +14,44 @@
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_keeping_cat_away.svg" ,"title": "Keeping cats away from packing and processing areas", "info": ""},
+      {"img": "images/icons/ic_keeping_cat_away.svg" ,"title": "Keeping cats away from packing and processing areas<br><br><br>", "info": ""},
       {"img": "images/icons/ic_municipal_water.svg" ,"title": "Washing fresh produces with municipal water", "info": ""},
-      {"img": "images/icons/ic_wearing_personnel_protection.svg" ,"title": "Wearing personal protective equipment when handling fresh produces and equipment", "info": ""},
-      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after handling potentially contaminated items", "info": ""}
+      {"img": "images/icons/ic_wearing_personnel_protection.svg" ,"title": "Wearing personal protective equipment when handling fresh produces and equipment<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after handling potentially contaminated items<br><br><br>", "info": ""}
     ]
   },
   "distribution": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_keeping_cat_away.svg" ,"title": "Keeping cats away from storage and distribution areas of fresh produces", "info": ""},
+      {"img": "images/icons/ic_keeping_cat_away.svg" ,"title": "Keeping cats away from storage and distribution areas of fresh produces<br><br><br>", "info": ""},
       {"img": "images/icons/ic_preventing_cat_access_to_transport_vehicles.svg" ,"title": "Preventing cat access to transport vehicles of fresh produces", "info": ""},
       {"img": "images/icons/ic_irrigating_municipal_water.svg" ,"title": "Using municipal water to wash vehicles and facilities", "info": ""},
-      {"img": "images/icons/ic_wearing_personnel_protection.svg" ,"title": "Wearing personal protective equipment", "info": ""},
-      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after handling potentially contaminated items ", "info": ""}
+      {"img": "images/icons/ic_wearing_personnel_protection.svg" ,"title": "Wearing personal protective equipment<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after handling potentially contaminated items<br><br><br>", "info": ""}
     ]
   },
   "customer": {
     "text": "",
     "collection": [
       {"img": "images/icons/ic_washing_hands.svg" ,"title": "Cleaning hands and utensils after handling raw foods", "info": ""},
-      {"img": "images/icons/ic_avoiding_raw_meat.svg" ,"title": "Avoiding raw meats, seafood, and unpasteurized milk and dairy products", "info": ""},
+      {"img": "images/icons/ic_avoiding_raw_meat.svg" ,"title": "Avoiding raw meats, seafood, and unpasteurized milk and dairy products<br><br><br>", "info": ""},
       {"img": "images/icons/ic_cooking_food.svg" ,"title": "Cooking food thoroughly to destroy tissue cysts in meat", "info": ""},
       {"img": "images/icons/ic_boling_milk.svg" ,"title": "Boiling raw milk before use", "info": ""},
       {"img": "images/icons/ic_washing_fresh_produces.svg" ,"title": "Washing fresh produces before consumption", "info": ""},
-      {"img": "images/icons/ic_avoiding_cross_contamination.svg" ,"title": "Avoiding cross-contamination between raw and ready-to-eat foods", "info": ""},
+      {"img": "images/icons/ic_avoiding_cross_contamination.svg" ,"title": "Avoiding cross-contamination between raw and ready-to-eat foods<br><br><br>", "info": ""},
       {"img": "images/icons/ic_5_keys.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]
   },
   "home": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_wearing_gloves_for_gardening.svg" ,"title": "Wearing gloves for gardening and soil contact", "info": ""},
+      {"img": "images/icons/ic_wearing_gloves_for_gardening.svg" ,"title": "Wearing gloves for gardening and soil contact<br><br><br>", "info": ""},
       {"img": "images/icons/ic_washing_hands.svg" ,"title": "Washing hands after gardening and soil contact", "info": ""},
       {"img": "images/icons/ic_avoiding_repeated_contacts.svg" ,"title": "Avoiding repeated contacts with stray cats", "info": ""},
-      {"img": "images/icons/ic_ask_someone_to_change_the_litter_box.svg" ,"title": "If you are at risk (<i>Toxoplasma</i>-negative pregnant woman or immunocompromised person), asking someone to change the litter box, or wearing gloves and washing hands if you must do it yourself", "info": ""},
+      {"img": "images/icons/ic_ask_someone_to_change_the_litter_box.svg" ,"title": "If you are at risk (<i>Toxoplasma</i>-negative pregnant woman or immunocompromised person), asking someone to change the litter box, or wearing gloves and washing hands if you must do it yourself<br><br><br>", "info": ""},
       {"img": "images/icons/ic_feeding_cats.svg" ,"title": "Feeding cats only commercial dry or canned food", "info": ""},
       {"img": "images/icons/ic_never_feeding_cats.svg" ,"title": "Never feeding cats raw meat", "info": ""},
-      {"img": "images/icons/ic_keeping_cats_indoor.svg" ,"title": "Keeping cats indoors to prevent infection", "info": ""},
+      {"img": "images/icons/ic_keeping_cats_indoor.svg" ,"title": "Keeping cats indoors to prevent infection<br><br><br>", "info": ""},
       {"img": "images/icons/ic_changing_the_cat_litter_box_daily.svg" ,"title": "Changing the cat litter box daily", "info": ""}
     ]
   }
