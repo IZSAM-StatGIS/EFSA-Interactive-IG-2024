@@ -9,7 +9,7 @@
       "backgroundImage": {
         "src": "images/backgrounds/symptoms.svg"
       },
-      "incubationPeriod": "",
+      "incubationPeriod": "from three to twenty-one days after exposure",
       "phases": [
         {
           "text":"",
@@ -68,8 +68,14 @@
           "phaseDescr": "Depending on the clinical form, possible complications are:",
           "collection": [
             {"name": "Ulceroglandular form", "abstract": "pneumonia, septicemia/sepsis, septicemic meningitis", "img": "images/icons/ic_.svg"},
-            {"name": "Oropharyngeal", "abstract": "shock", "img": "images/icons/ic_.svg"},
-            {"name": "Systemic", "abstract": "sepsis, meningitis, encephalitis, endocarditis, and osteomyelitis", "img": "images/icons/ic_.svg"}
+            {"name": "Oropharyngeal", "abstract": "shock", "img": "images/icons/ic_.svg"}
+          ]
+        },
+        {
+          "text":"",
+          "phaseDescr": "Systemic complications are:",
+          "collection": [
+            {"name": "Sepsis, meningitis, encephalitis, endocarditis, and osteomyelitis", "abstract": "", "img": "images/icons/ic_.svg"}
           ]
         }
       ]
