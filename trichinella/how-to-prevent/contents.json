@@ -13,7 +13,7 @@
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_conducting_regular_and_thorough_official_controls.svg" ,"title": "Conducting regular and thorough official controls by competent authorities", "info": ""},
+      {"img": "images/icons/ic_conducting_regular_and_thorough_official_controls.svg" ,"title": "Conducting regular and thorough official controls by competent authorities<br><br><br>", "info": ""},
       {"img": "images/icons/ic_conduct_post-slaughter_processing_to_inactivate.svg" ,"title": "Conducting post-slaughter processing to inactivate <i>Trichinella</i>", "info": ""}
     ]
   },

@@ -19,7 +19,7 @@
       {"img": "images/icons/ic_rasing_fresh_washing_vegetables.svg" ,"title": "Rinsing fresh vegetables and fruits before consuming<br><br><br>", "info": ""},
       {"img": "images/icons/ic_cleaning_hands_and_utensils.svg" ,"title": "Cleaning hands and utensils after handling raw meat<br><br><br>", "info": ""},
       {"img": "images/icons/ic_drinking_water.svg" ,"title": "Drinking and using drinkable water<br><br><br>", "info": ""},
-      {"img": "images/icons/ic_5_keys.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
+      {"img": "images/icons/ic_5_keys.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small><br><br>"}
     ]
   }
 }

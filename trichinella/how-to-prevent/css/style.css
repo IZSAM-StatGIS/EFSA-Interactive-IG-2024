@@ -87,7 +87,7 @@ small a {
   box-shadow: 0 2px 12px #46857b;
   background-repeat: no-repeat;
   background-position: bottom right;
-  background-size: 30%;
+  background-size: 30% 40%;
 }
 
 .card-container .card:nth-last-child(-n+2){
