@@ -287,6 +287,14 @@ html{
   padding: 30px 12px 12px 12px;
 }
 
+.phases-animal-text-container{
+  flex-basis: 100%;
+  text-align: left!important;
+  font-weight: bold;
+  background: #60a197;
+  padding: 0 12px;
+}
+
 .ph-collection-container{
   width: 100%;
   justify-content: center;
@@ -327,6 +335,21 @@ html{
 }
 */
 
+
+.phases-btn{
+  background: transparent;
+  border: 0;
+  font-weight: 600;
+}
+
+.phases-btn.active{
+  border-bottom: 2px solid #ffffff;
+}
+
+.phases-panel{
+  margin-top: 1rem;;
+}
+
 /****** Transform *********/
 
 .fl-box-closed,
@@ -345,7 +368,7 @@ html{
 }
 
 .d-none{
-  display: none;
+  display: none!important;
 }
 
 .d-block{
