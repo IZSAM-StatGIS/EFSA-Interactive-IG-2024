@@ -69,7 +69,7 @@
     font-size: .8rem;
   }
 
-  .list-container div:not(.ph-collection-container){
+  .list-container div:not(.ph-collection-container):not(.incubation-container):not(.incubation-text){
     width: 33%;
   }
 

@@ -87,7 +87,7 @@ function getAnimalSymptomTemplate(data, type){
     <button id="h-cat" class="phases-btn active" data-phases="cat">Cat</button>
     <button id="h-other" class="phases-btn" data-phases="other">Other animals</button>
   </div>
-  ${getText("Most animals infected with Toxoplasma gondii are asymptomatic.<br><br>")}
+  ${getText("Most animals infected with <i>Toxoplasma gondii</i> are asymptomatic.<br><br>")}
   <div id="cat" class="phases-panel">
     ${getAnimalCollection(data.phases.cat, type)}
   </div>

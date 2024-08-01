@@ -47,7 +47,7 @@
     height: 60px;
   }
 
-  .list-container img{
+  .list-container img:not(.incubation-img){
     height: 80px;
   }
 
@@ -55,7 +55,7 @@
     font-size: 1rem;
   }
 
-  .list-container div:not(.ph-collection-container){
+  .list-container div:not(.ph-collection-container):not(.incubation-container):not(.incubation-text){
     width: 24%;
   }
   /*

@@ -194,11 +194,12 @@ html{
   margin-bottom: 20px;
 }
 
-.d-modal-contents .incubation-container{
+.incubation-container{
   display: flex;
   padding: 12px;
   margin-bottom: 12px;
   background: #5fa197;
+  width: 100%;
 }
 
 .s-maincontent{
@@ -259,7 +260,7 @@ html{
   margin-bottom: 8px;
 }
 
-.list-container div:not(.ph-collection-container){
+.list-container div:not(.ph-collection-container):not(.incubation-container):not(.incubation-text){
   display: flex;
   flex-direction: column;
   width: 45%;
@@ -327,6 +328,21 @@ html{
 }
 */
 
+
+.phases-btn{
+  background: transparent;
+  border: 0;
+  font-weight: 600;
+}
+
+.phases-btn.active{
+  border-bottom: 2px solid #ffffff;
+}
+
+.phases-panel{
+  margin-top: 1rem;;
+}
+
 /****** Transform *********/
 
 .fl-box-closed,
@@ -345,7 +361,7 @@ html{
 }
 
 .d-none{
-  display: none;
+  display: none!important;
 }
 
 .d-block{

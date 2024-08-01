@@ -10,10 +10,10 @@
         "src": "images/backgrounds/symptoms.svg"
       },
       "incubationPeriod": "typically, 2–3 months, but can range from one week to one year ",
-      "phases": [
-        {
+      "phases": {
+        "init": {
           "text":"",
-          "phaseDescr": "Initial phase with nonspecific symptoms:",
+          "phaseDescr": "",
           "collection": [
             {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
             {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weakness.svg"},
@@ -24,9 +24,9 @@
             {"name": "Paraesthesia", "abstract": "", "img": "images/icons/ic_paraesthesia.svg"}
           ]
         },
-        {
-          "text":"After a few days, rabies progress to the acute neurological phase:",
-          "phaseDescr": "Furious or encephalitic form:",
+        "furi": {
+          "text":"",
+          "phaseDescr": "",
           "collection": [
             {"name": "Hyperactivity", "abstract": "", "img": "images/icons/ic_hyperactivity.svg"},
             {"name": "Excitable behaviour", "abstract": "", "img": "images/icons/ic_excitable_behaviour.svg"},
@@ -36,15 +36,15 @@
             {"name": "Aerophobia", "abstract": "", "img": "images/icons/ic_aerophobia.svg"}
           ]
         },
-        {
+        "para": {
           "text":"",
-          "phaseDescr": "Paralytic form:",
+          "phaseDescr": "",
           "collection": [
             {"name": "Muscle weakness", "abstract": "", "img": "images/icons/ic_muscle_weakness.svg"},
             {"name": "Progressive paralysis", "abstract": "", "img": "images/icons/ic_progressive_paralysis.svg"}
           ]
         }
-      ]
+      }
     },
     "whois":{
       "backgroundImage": {
@@ -84,10 +84,10 @@
       },
       "incubationPeriod": "",
       "text": "",
-      "phases": [
-        {
+      "phases": {
+        "init": {
           "text":"",
-          "phaseDescr": "Initial phase with nonspecific symptoms",
+          "phaseDescr": "",
           "collection": [
             {"name": "Anorexia or increased appetite", "abstract": "", "img": "images/icons/ic_animal_anorexia.svg"},
             {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"},
@@ -97,44 +97,44 @@
             {"name": "Neurological involvement", "abstract": "", "img": "images/icons/ic_neurological_involvement.svg"}
           ]
         },
-        {
-          "text":"After a few days, rabies progresses to the acute neurological phase, often resembling symptoms seen in humans, with the addition of:",
-          "phaseDescr": "Furious or encephalitic form",
+        "furi": {
+          "text":"",
+          "phaseDescr": "",
           "collection": [
             {"name": "Aggressivity", "abstract": "", "img": "images/icons/ic_aggressivity.svg"},
             {"name": "Restlessness", "abstract": "", "img": "images/icons/ic_restlessness.svg"}
           ]
         },
-        {
+        "para": {
           "text":"",
-          "phaseDescr": "Paralytic form",
+          "phaseDescr": "",
           "collection": [
             {"name": "Profuse salivation", "abstract": "", "img": "images/icons/ic_profuse_salivation.svg"},
             {"name": "Change in vocalisation", "abstract": "", "img": "images/icons/ic_change_vocalisation.svg"}
           ]
         }
-      ]
+      }
     },
     "whois":{
       "backgroundImage": {
         "src": "images/icons/ic_animals.svg"
       },
-      "text": "Flying and non-flying terrestrial mammals, such as:",
-      "levels": [
-        {
-          "text": "At global level",
-          "collection": [
-            {"name": "Dog", "abstract": "", "img": "images/icons/ic_dog.svg"},
-            {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg"},
-            {"name": "Fox", "abstract": "", "img": "images/icons/ic_fox.svg"},
-            {"name": "Bat", "abstract": "", "img": "images/icons/ic_bat.svg"},
-            {"name": "Cat", "abstract": "", "img": "images/icons/ic_cat.svg"},
-            {"name": "Raccoon", "abstract": "", "img": "images/icons/ic_racoon.svg"},
-            {"name": "Skunk", "abstract": "", "img": "images/icons/ic_skunk.svg"}
-          ]
-        },
-        {
-          "text": "At European level",
+      "text": "",
+      "levels": {
+        "global":{
+            "text": "Flying and non-flying terrestrial mammals, such as:",
+            "collection": [
+              {"name": "Dog", "abstract": "", "img": "images/icons/ic_dog.svg"},
+              {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg"},
+              {"name": "Fox", "abstract": "", "img": "images/icons/ic_fox.svg"},
+              {"name": "Bat", "abstract": "", "img": "images/icons/ic_bat.svg"},
+              {"name": "Cat", "abstract": "", "img": "images/icons/ic_cat.svg"},
+              {"name": "Raccoon", "abstract": "", "img": "images/icons/ic_racoon.svg"},
+              {"name": "Skunk", "abstract": "", "img": "images/icons/ic_skunk.svg"}
+            ]
+          },
+        "euro":{
+          "text": "Flying and non-flying terrestrial mammals, such as:",
           "collection": [
             {"name": "Dog", "abstract": "", "img": "images/icons/ic_dog.svg"},
             {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg"},
@@ -143,7 +143,7 @@
             {"name": "Raccoon dog", "abstract": "", "img": "images/icons/ic_raccoon_dog.svg"}
           ]
         }
-      ]
+      }
     },
     "complications":{
       "backgroundImage": {

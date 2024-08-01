@@ -68,6 +68,21 @@ function openDetailLevel(elem) {
   let otherElemCollection = slModal.querySelectorAll('div:not(#'+elem.currentTarget.id+')');
 
   let type = (htmlElem.classList.contains(EnumType.HUMAN) ? EnumType.HUMAN : EnumType.ANIMAL);
+  let section = elem.currentTarget.dataset.section;
+
+  document.addEventListener("click", function (e) {
+    const target = e.target.closest(".phases-btn");
+    if (target) {
+      document.querySelectorAll('.phases-panel').forEach((elem) => {
+        elem.classList.add('d-none');
+      });
+      document.querySelector('#' + target.dataset.phases).classList.remove('d-none');
+      document.querySelectorAll('.phases-btn').forEach((elem) => {
+        elem.classList.remove('active');
+      });
+      target.classList.add('active');
+    }
+  });
 
   switch (elem.currentTarget.id){
     case 'slb2':

@@ -56,25 +56,41 @@ function getCollectionTemplate(data, type){
     return t;
 }
 
+
+
 function getAnimalCollectionTemplate(data, type){
-  let t = '<div class="whois-animal-container">';
-  data.levels.forEach((level) => {
-    t += `<div class="zone-container">`;
-      t += getText(level);
-      if (level.collection.length>0) {
-        t += `<div class="${type} risk list-container">`;
-        level.collection.forEach((elem) => {
-        t += `<div class="w-elem">
-                <img src="${elem.img}" style="${elem.customStyle}">
-                <strong>${elem.name}</strong>
-                <small>${elem.abstract}</small>
-              </div>`
-        });
-        t += `</div>`;
-      t += `</div>`;
-    }
-  });
-  t += `</div>`;
-  return t;
+  let body = `
+  <div class="whois-animal-container">
+    <div>
+      <button id="h-global" class="phases-btn active" data-phases="global">At the global level</button>
+      <button id="h-euro" class="phases-btn" data-phases="euro">At the European level</button>
+    </div>
+    <div id="global" class="zone-container phases-panel">
+      ${getText(data.levels.global)}
+      <div class="${type} risk list-container">
+        ${getAnimalCollection(data.levels.global.collection)}
+      </div>
+    </div>
+
+    <div id="euro" class="zone-container phases-panel d-none">
+      ${getText(data.levels.euro)}
+      <div class="${type} risk list-container">
+        ${getAnimalCollection(data.levels.euro.collection)}
+      </div>
+    </div>
+  </div>
+  `
+  return body;
 }
 
+function getAnimalCollection(collection){
+  let t = '';
+  collection.forEach((elem) => {
+    t += `<div class="w-elem">
+            <img src="${elem.img}" style="${elem.customStyle}">
+            <strong>${elem.name}</strong>
+            <small>${elem.abstract}</small>
+          </div>`
+    });
+  return t;
+}
