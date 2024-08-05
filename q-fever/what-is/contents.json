@@ -6,7 +6,7 @@
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "<ul><li><i>C. burnetii</i> strains need a CO2-enriched atmosphere for growth when cultured in cell lines under laboratory conditions (5 to 10%), reflecting its natural intracellular habitat.</li><li>The spore-like form withstands environmental conditions outside of these specialized settings.</li></ul>",
+    "content": "<ul><li><i>C. burnetii</i> strains need a CO2-enriched atmosphere for growth when cultured in cell lines under laboratory conditions (5 to 10%), reflecting its natural intracellular habitat.</li><li>Its spore-like form withstands environmental conditions outside of these specialized settings.</li></ul>",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
@@ -21,7 +21,7 @@
   },
   "salinity": {
     "title": "Salinity",
-    "content": "<ul><li>The bacterium requires intracellular conditions to replicate.</li><li>The effects on salinity on spore-like form are not documented.</li></ul>",
+    "content": "<ul><li>The bacterium requires intracellular conditions to replicate.</li><li>The effects on salinity on its spore-like form are not documented.</li></ul>",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 

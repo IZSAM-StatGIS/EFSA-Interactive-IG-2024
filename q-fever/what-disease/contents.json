@@ -26,7 +26,7 @@
         },
         {
           "text":"",
-          "phaseDescr": "Pregnant woman, especially during the first trimester, may develop:",
+          "phaseDescr": "Pregnant women, especially during the first trimester, may develop:",
           "collection": [
             {"name": "Premature delivery", "abstract": "", "img": "images/icons/ic_premature.svg"},
             {"name": "Low birth weight foetus", "abstract": "", "img": "images/icons/ic_low_birth_weight_foetus.svg"},
