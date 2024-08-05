@@ -98,6 +98,7 @@ small a {
   display: block;
   padding: .8rem .8rem 1.2rem .8rem;
   font-size: .8rem;
+  text-shadow: 0px 0px 21px #4783A9;
 }
 
 .divider{
@@ -153,8 +154,19 @@ small a {
   transition: width 0.3s;
 }
 
+.level-container:hover div:not(.selected):hover {
+  width: 100%;
+}
+
+.level-container:hover div.selected {
+  width: 60%;
+}
+.level-container:hover div.selected:hover {
+  width: 100%;
+}
+
 .level-container div:not(.selected){
-  width: 70%;
+  width: 60%;
 }
 
 .level-container .lv-icon{
