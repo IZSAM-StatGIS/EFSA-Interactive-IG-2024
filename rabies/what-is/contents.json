@@ -11,7 +11,7 @@
   },
   "genetic": {
     "title": "Genetic material",
-    "content": "Negative-sense, single-stranded RNA. Encoding for five structural proteins: the nucleoprotein (N), phosphoprotein (P), matrix protein (M), glycoprotein (G) and RNA polymerase protein (L).<br><br>Following the attachment to the susceptible host cells, the genetic material is transferred, transcribed and replicated in the infected cells.",
+    "content": "Negative-sense, single-stranded RNA encoding for five structural proteins: the nucleoprotein (N), phosphoprotein (P), matrix protein (M), glycoprotein (G) and RNA polymerase protein (L).<br><br>Following the attachment of the rabies lyssavirus to the susceptible host cells, the genetic material is transferred, transcribed and replicated in the infected cells.",
     "imgUrl": "./images/icons/ic_genetic_material.svg"
   }
 }

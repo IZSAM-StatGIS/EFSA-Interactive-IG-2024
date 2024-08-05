@@ -50,27 +50,44 @@ h2 {
 }
 
 .te {
-  transform: translate(-70px, 196px);
+  transform: translate(-27px, 217px);
 }
 
-.tg{
-  transform: translate(-34px, 16px);
+.tg {
+  opacity: 0;
+  transform: translate(66px, 29px);
+  transition: 0.3s ease 1s;
+}
+
+.loaded .tg {
+  opacity: 1;
 }
 
 .tv{
-  transform: translate(-124px, -122px);
+  transform: translate(-220px, -237px);
+  text-align: right;
 }
 
 .ic{
   display: block;
   position: absolute;
-  width: 200px;
+  width: 350px;
   top: 50%;
   left: 50%;
   z-index: 20;
   cursor: pointer;
   transform: translate(-50%, -50%);
   pointer-events: none;
+}
+
+.ic.ic-gen {
+  opacity: 0;
+  z-index: 21;
+  transition: 0.3s ease 1s;
+}
+
+.loaded .ic.ic-gen {
+  opacity: 1;
 }
 
 .ic > a{
