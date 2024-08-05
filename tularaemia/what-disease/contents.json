@@ -9,7 +9,7 @@
       "backgroundImage": {
         "src": "images/backgrounds/symptoms.svg"
       },
-      "incubationPeriod": "from three to twenty-one days after exposure",
+      "incubationPeriod": "from 3 to 21 days after exposure",
       "phases": [
         {
           "text":"",
