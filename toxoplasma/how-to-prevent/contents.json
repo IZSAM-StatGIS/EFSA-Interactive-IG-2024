@@ -53,7 +53,7 @@
   "owners": {
     "text": "",
     "collection": [      
-      {"img": "images/icons/ic_changing_the_cat_litter_box_daily.svg" ,"title": "Changing the cat litter box daily", "info": ""},
+      {"img": "images/icons/ic_changing_the_cat_litter_box_daily.svg" ,"title": "Changing the cat litter box daily<br><br><br>", "info": ""},
       {"img": "images/icons/ic_ask_someone_to_change_the_litter_box.svg" ,"title": "If you are at risk (<i>Toxoplasma</i>-negative pregnant woman or immunocompromised person), asking someone to change the litter box, or wearing gloves and washing hands if you must do it yourself<br><br><br>", "info": ""},
       {"img": "images/icons/ic_feeding_cats.svg" ,"title": "Feeding cats only commercial dry or canned food", "info": ""},
       {"img": "images/icons/ic_never_feeding_cats.svg" ,"title": "Never feeding cats raw meat", "info": ""},

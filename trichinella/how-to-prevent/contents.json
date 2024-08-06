@@ -22,7 +22,7 @@
     "collection": [
       {"img": "images/icons/ic_raise_public.svg" ,"title": "Trichinellosis awareness-raising", "info": ""},
       {"img": "images/icons/ic_farmers_and_hunters_education_activities.svg" ,"title": "Farmers' and hunters' education activities", "info": ""},
-      {"img": "images/icons/ic_avoiding_consumption_uncontrolled_hunted_wild_boar_meat.svg" ,"title": "Avoiding consumption of uncontrolled hunted wild boar game<br><br><br>", "info": ""},
+      {"img": "images/icons/ic_avoiding_consumption_uncontrolled_hunted_wild_boar_meat.svg" ,"title": "Avoiding consumption of uncontrolled hunted game meat<br><br><br>", "info": ""},
       {"img": "images/icons/ic_thoroughly_cooking_meat.svg" ,"title": "Thoroughly cooking of the meat", "info": ""},
       {"img": "images/icons/ic_5_keys.svg" ,"title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]

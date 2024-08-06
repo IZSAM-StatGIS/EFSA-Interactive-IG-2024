@@ -50,12 +50,12 @@ h2 {
 }
 
 .te {
-  transform: translate(-27px, 217px);
+  transform: translate(-20px, 182px);
 }
 
 .tg {
   opacity: 0;
-  transform: translate(66px, 29px);
+  transform: translate(58px, 29px);
   transition: 0.3s ease 1s;
 }
 
@@ -64,14 +64,14 @@ h2 {
 }
 
 .tv{
-  transform: translate(-220px, -237px);
+  transform: translate(-242px, -139px);
   text-align: right;
 }
 
 .ic{
   display: block;
   position: absolute;
-  width: 350px;
+  width: 300px;
   top: 50%;
   left: 50%;
   z-index: 20;
