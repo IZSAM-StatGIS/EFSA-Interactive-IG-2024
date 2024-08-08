@@ -2,6 +2,7 @@
 
     .card-container .card {
         width: 24%;
+        background-size: 20%;
     }
 
     .card-container .card:nth-last-child(-n+4){
