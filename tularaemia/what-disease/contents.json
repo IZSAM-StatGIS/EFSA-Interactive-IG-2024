@@ -29,7 +29,7 @@
             {"name": "Ulceroglandular", "abstract": "", "img": "images/icons/ic_ulceroglandular.svg"},
             {"name": "Glandular", "abstract": "", "img": "images/icons/ic_glandular.svg"},
             {"name": "Oculoglandular", "abstract": "", "img": "images/icons/ic_oculoglandular.svg"},
-            {"name": "Oropharyngeal", "abstract": "", "img": "images/icons/ic_oculoglandular.svg"},
+            {"name": "Oropharyngeal", "abstract": "", "img": "images/icons/ic_oropharingeal.svg"},
             {"name": "Respiratory", "abstract": "", "img": "images/icons/ic_respiratory.svg"},
             {"name": "Typhoidal", "abstract": "", "img": "images/icons/ic_thyphoidal.svg"}
           ]
